@@ -4,8 +4,17 @@
 <title>Fashion RSS: Newsletters</title>
 <link>https://For3stpunk.github.io/fashion-rss</link>
 <atom:link href="https://For3stpunk.github.io/fashion-rss/feeds/newsletters.xml" rel="self" type="application/rss+xml"/>
-<description>Newsletters from 165 recent stories across the fashion media directory.</description>
-<lastBuildDate>Sun, 22 Nov 2026 17:10:48 +0000</lastBuildDate>
+<description>Newsletters from 164 recent stories across the fashion media directory.</description>
+<lastBuildDate>Sun, 22 Nov 2026 23:38:16 +0000</lastBuildDate>
+<item>
+<title>The Love List (Jess Graves): Pajama Power Shopping, Vol. 2: The Sale Selects</title>
+<link>https://www.thelovelist.wtf/p/pajama-power-shopping-vol-2-the-sale</link>
+<guid isPermaLink="true">https://www.thelovelist.wtf/p/pajama-power-shopping-vol-2-the-sale</guid>
+<pubDate>Sun, 22 Nov 2026 20:48:48 +0000</pubDate>
+<category>Newsletter</category>
+<description>THE BIG LIST! Every Black Friday and Cyber Monday deal worth your cart, vetted twice. Plus: hundreds of exclusive discount codes.</description>
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!CiSb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd75e48db-abf0-486e-9d92-ba2c324637aa_1210x875.png"/>
+</item>
 <item>
 <title>Magasin (Laura Reilly): 547: Home and High Touch-y early sale leaders</title>
 <link>https://www.magasin.ltd/p/547-home-and-high-touch-y-early-sale</link>
@@ -1472,24 +1481,6 @@
 <category>Newsletter</category>
 <description>Plus some analog things I’m doing to stretch my brain a bit</description>
 <media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/072ef45f-0d75-436f-9299-6fd25606470b_1250x833.png"/>
-</item>
-<item>
-<title>The Love List (Jess Graves): 42 Things I Loved in October</title>
-<link>https://www.thelovelist.wtf/p/42-things-i-loved-in-october</link>
-<guid isPermaLink="true">https://www.thelovelist.wtf/p/42-things-i-loved-in-october</guid>
-<pubDate>Sun, 01 Nov 2026 20:26:15 +0000</pubDate>
-<category>Newsletter</category>
-<description>These are a few of my favorite things...</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!oyUc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58c742f1-aeb8-4d80-ba97-f3da8936375e_1162x1474.png"/>
-</item>
-<item>
-<title>The Molehill (Viv Chen): what makes a hotel bathroom feel luxurious?</title>
-<link>https://www.themolehill.net/p/what-makes-a-hotel-bathroom-feel</link>
-<guid isPermaLink="true">https://www.themolehill.net/p/what-makes-a-hotel-bathroom-feel</guid>
-<pubDate>Sun, 01 Nov 2026 17:35:09 +0000</pubDate>
-<category>Newsletter</category>
-<description>plus the skincare and beauty stuff I packed for 10 days at 3 hotels.</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!SFKm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fbaafe1-f1d0-4b83-afdf-25b37c5a5288_3024x4032.jpeg"/>
 </item>
 </channel>
 </rss>

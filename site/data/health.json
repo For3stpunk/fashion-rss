@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:10:48+00:00",
+ "updated": "2026-11-22T23:38:16+00:00",
  "feeds": {
   "Vogue": {
    "url": "https://www.vogue.com/feed/rss",
@@ -94,7 +94,7 @@
   "Highsnobiety": {
    "url": "https://www.highsnobiety.com/feeds/rss",
    "status": "ok",
-   "stories": 8
+   "stories": 6
   },
   "Editorialist": {
    "url": "https://editorialist.com/feed/",
@@ -353,8 +353,8 @@
   },
   "Styling You": {
    "url": "https://www.stylingyou.com.au/feed/",
-   "status": "ok",
-   "stories": 8
+   "status": "HTTPError 520",
+   "stories": 0
   },
   "Styled Snapshots": {
    "url": "https://styledsnapshots.com/feed",
@@ -813,8 +813,8 @@
   },
   "Love.Style.Mindfulness": {
    "url": "https://www.lovestylemindfulness.co.uk/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "Buckets & Spades": {
    "url": "http://www.bucketsandspadesblog.com/feeds/posts/default",
@@ -998,8 +998,8 @@
   },
   "Man For Himself": {
    "url": "https://manforhimself.com/feed/",
-   "status": "ok",
-   "stories": 20
+   "status": "URLError",
+   "stories": 0
   },
   "What Olivia Did": {
    "url": "https://whatoliviadid.com/feed/",
@@ -1053,8 +1053,8 @@
   },
   "Sandra Semburg": {
    "url": "https://www.sandrasemburg.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Fashion Vernissage": {
    "url": "https://fashionvernissage.com/feed/",
@@ -1483,8 +1483,8 @@
   },
   "Denim Is the New Black": {
    "url": "https://denimisthenewblack.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 12
   },
   "Gary Pepper Girl": {
    "url": "http://garypeppergirl.com/feed",
@@ -1548,8 +1548,8 @@
   },
   "Tokyo Fashion": {
    "url": "https://tokyofashion.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "TimeoutError",
+   "stories": 0
   },
   "TheIndustry.fashion": {
    "url": "https://www.theindustry.fashion/feed/",
@@ -1558,8 +1558,8 @@
   },
   "Drapers": {
    "url": "https://www.drapersonline.com/feed",
-   "status": "HTTPError 403",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Fibre2Fashion": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU6fF5ds7_V3pluh5sZvA",
@@ -2103,8 +2103,8 @@
   },
   "Eco-Stylist": {
    "url": "https://www.eco-stylist.com/feed/",
-   "status": "ok",
-   "stories": 25
+   "status": "HTTPError 521",
+   "stories": 0
   },
   "The Peahen": {
    "url": "https://thepeahen.com/feed/",
@@ -2183,7 +2183,7 @@
   },
   "Style Bee": {
    "url": "https://stylebee.ca/feed/",
-   "status": "HTTPError 404",
+   "status": "URLError",
    "stories": 0
   },
   "Seasons + Salt": {
@@ -2513,8 +2513,8 @@
   },
   "Musings of a Curvy Lady": {
    "url": "https://musingsofacurvylady.com/feed/",
-   "status": "TimeoutError",
-   "stories": 0
+   "status": "ok",
+   "stories": 12
   },
   "Extra Inches": {
    "url": "http://www.extra-inches.de/en/feed/",
@@ -2668,8 +2668,8 @@
   },
   "Apparel Entrepreneurship": {
    "url": "https://www.apparelentrepreneurship.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "A Shaded View on Fashion": {
    "url": "https://ashadedviewonfashion.com/feed/",
@@ -2693,8 +2693,8 @@
   },
   "Retail Gazette – Fashion": {
    "url": "https://www.retailgazette.co.uk/blog/category/all/fashion/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 429",
+   "stories": 0
   },
   "RetailDetail – Fashion": {
    "url": "https://www.retaildetail.eu/category/fashion/feed/",
@@ -2743,8 +2743,8 @@
   },
   "Oh So Glam": {
    "url": "http://www.ohsoglam.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 504",
+   "stories": 0
   },
   "Allyson in Wonderland": {
    "url": "https://allysoninwonderland.com/feed/",
@@ -2848,8 +2848,8 @@
   },
   "The Directrice": {
    "url": "https://thedirectrice.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "The Docket Blog": {
    "url": "https://thedocketblog.com/feed/",
@@ -3128,7 +3128,7 @@
   },
   "Offspring": {
    "url": "https://www.offspring.co.uk/blog/feed/",
-   "status": "HTTPError 403",
+   "status": "not a feed",
    "stories": 0
   },
   "Sneaker Bistrony": {
@@ -3158,8 +3158,8 @@
   },
   "Cool Sneakers": {
    "url": "https://www.coolsneakers.dk/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "The Deffest": {
    "url": "https://www.thedeffest.com/blog?format=rss",
@@ -3273,8 +3273,8 @@
   },
   "Chloé Fashion & Lifestyle": {
    "url": "https://chloefashionlifestyle.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "Punky B": {
    "url": "https://www.punky-b.com/feed/",
