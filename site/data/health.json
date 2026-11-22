@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:47:28+00:00",
+ "updated": "2026-11-22T17:10:48+00:00",
  "feeds": {
   "Vogue": {
    "url": "https://www.vogue.com/feed/rss",
@@ -328,8 +328,8 @@
   },
   "J'adore Fashion": {
    "url": "https://www.jadore-fashion.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 502",
+   "stories": 0
   },
   "With Love From Kat": {
    "url": "http://withlovefromkat.com/feed/",
@@ -353,8 +353,8 @@
   },
   "Styling You": {
    "url": "https://www.stylingyou.com.au/feed/",
-   "status": "HTTPError 520",
-   "stories": 0
+   "status": "ok",
+   "stories": 8
   },
   "Styled Snapshots": {
    "url": "https://styledsnapshots.com/feed",
@@ -1053,8 +1053,8 @@
   },
   "Sandra Semburg": {
    "url": "https://www.sandrasemburg.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "Fashion Vernissage": {
    "url": "https://fashionvernissage.com/feed/",
@@ -1483,8 +1483,8 @@
   },
   "Denim Is the New Black": {
    "url": "https://denimisthenewblack.com/feed/",
-   "status": "ok",
-   "stories": 12
+   "status": "URLError",
+   "stories": 0
   },
   "Gary Pepper Girl": {
    "url": "http://garypeppergirl.com/feed",
@@ -1558,8 +1558,8 @@
   },
   "Drapers": {
    "url": "https://www.drapersonline.com/feed",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Fibre2Fashion": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU6fF5ds7_V3pluh5sZvA",
@@ -2143,8 +2143,8 @@
   },
   "Glamourina": {
    "url": "https://glamourina.net/en/c/fashion-blog-2/feed/",
-   "status": "not a feed",
-   "stories": 0
+   "status": "ok",
+   "stories": 5
   },
   "Good Maker Tales": {
    "url": "https://goodmakertales.com/feed/",
@@ -2513,8 +2513,8 @@
   },
   "Musings of a Curvy Lady": {
    "url": "https://musingsofacurvylady.com/feed/",
-   "status": "ok",
-   "stories": 12
+   "status": "TimeoutError",
+   "stories": 0
   },
   "Extra Inches": {
    "url": "http://www.extra-inches.de/en/feed/",
@@ -2619,7 +2619,7 @@
   "Mirror – Style": {
    "url": "https://www.mirror.co.uk/3am/style/?service=rss",
    "status": "ok",
-   "stories": 8
+   "stories": 9
   },
   "Does My Bum Look 40 In This?": {
    "url": "http://doesmybumlook40.blogspot.com/feeds/posts/default?alt=rss",
@@ -2743,8 +2743,8 @@
   },
   "Oh So Glam": {
    "url": "http://www.ohsoglam.com/feed/",
-   "status": "HTTPError 504",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Allyson in Wonderland": {
    "url": "https://allysoninwonderland.com/feed/",
@@ -2908,8 +2908,8 @@
   },
   "Stitch Fix Style": {
    "url": "https://www.stitchfix.com/women/blog/feed/",
-   "status": "ok",
-   "stories": 12
+   "status": "no stories",
+   "stories": 0
   },
   "You Look Fab": {
    "url": "https://feeds.feedburner.com/youlookfab",
@@ -3028,8 +3028,8 @@
   },
   "The Dressed Aesthetic": {
    "url": "https://thedressedaesthetic.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Empress Vintage": {
    "url": "https://empressvintage.com/blogs/empress-blog.atom",
