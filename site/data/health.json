@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:25:32+00:00",
+ "updated": "2026-11-22T06:47:28+00:00",
  "feeds": {
   "Vogue": {
    "url": "https://www.vogue.com/feed/rss",
@@ -183,7 +183,7 @@
   },
   "Advanced Style": {
    "url": "https://www.advanced.style/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Accidental Icon": {
@@ -283,12 +283,12 @@
   },
   "Penny Pincher Fashion": {
    "url": "https://www.pennypincherfashion.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Un-Fancy": {
    "url": "https://www.un-fancy.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Hello Fashion": {
@@ -328,8 +328,8 @@
   },
   "J'adore Fashion": {
    "url": "https://www.jadore-fashion.com/feed/",
-   "status": "not a feed",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "With Love From Kat": {
    "url": "http://withlovefromkat.com/feed/",
@@ -353,7 +353,7 @@
   },
   "Styling You": {
    "url": "https://www.stylingyou.com.au/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 520",
    "stories": 0
   },
   "Styled Snapshots": {
@@ -663,7 +663,7 @@
   },
   "Red Soles and Red Wine": {
    "url": "https://www.redsolesandredwine.com/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Sassy Dove": {
@@ -708,7 +708,7 @@
   },
   "My White T": {
    "url": "https://jmalay.com/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "CeCe Olisa": {
@@ -718,8 +718,8 @@
   },
   "Not Jess Fashion (Jessica Wang)": {
    "url": "https://www.notjessfashion.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Girl With Curves": {
    "url": "https://girlwithcurves.com/feed",
@@ -728,7 +728,7 @@
   },
   "It's Casual": {
    "url": "https://www.itscasualblog.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Glamour UK": {
@@ -823,7 +823,7 @@
   },
   "Styling By Charlotte": {
    "url": "https://www.stylingbycharlotte.com/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 403",
    "stories": 0
   },
   "Shoeperwoman": {
@@ -918,7 +918,7 @@
   },
   "Sophie Milner": {
    "url": "https://sophiemilner.co.uk/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Kayla Hadlington": {
@@ -928,7 +928,7 @@
   },
   "Laura Bradshaw": {
    "url": "https://www.laurabradshaw.co.uk/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Love Cloth": {
@@ -1113,17 +1113,17 @@
   },
   "Mens Fashion Magazine": {
    "url": "https://www.mensfashionmagazine.com/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "I Love Green Inspiration": {
    "url": "https://ilovegreeninspiration.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "MIKUTA": {
    "url": "https://mikuta.nu/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 520",
    "stories": 0
   },
   "Lost In Cheeseland": {
@@ -1583,8 +1583,8 @@
   },
   "California Apparel News": {
    "url": "https://www.apparelnews.net/rss/headlines/fashion/",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "aGOODoutfit": {
    "url": "https://agoodoutfit.com/category/news/feed/",
@@ -1758,8 +1758,8 @@
   },
   "The View from 5 ft. 2": {
    "url": "https://www.viewfrom5ft2.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "My Style Pill": {
    "url": "http://www.mystylepill.com/feed/",
@@ -1773,7 +1773,7 @@
   },
   "Keep Calm and Chiffon": {
    "url": "https://keepcalmandchiffon.com/blog/category/fashion/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Lisa D Cahue": {
@@ -1783,7 +1783,7 @@
   },
   "Mimosas & Manhattan": {
    "url": "http://www.mimosasmanhattan.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Michelle's Pa(i)ge": {
@@ -1898,7 +1898,7 @@
   },
   "PUSS PUSS Magazine": {
    "url": "https://www.pusspussmagazine.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Autre Magazine": {
@@ -1948,8 +1948,8 @@
   },
   "Men's Style Pro": {
    "url": "https://mensstylepro.com/feed/",
-   "status": "HTTPError 500",
-   "stories": 0
+   "status": "ok",
+   "stories": 25
   },
   "A Continuous Lean": {
    "url": "https://feeds.feedburner.com/acontinuouslean/",
@@ -2073,8 +2073,8 @@
   },
   "Die, Workwear!": {
    "url": "https://dieworkwear.com/feed/",
-   "status": "not a feed",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Pinstripe Magazine": {
    "url": "https://pinstripemag.com/style/mens-fashion/feed/",
@@ -2088,12 +2088,12 @@
   },
   "Twenty First Century Gent": {
    "url": "https://www.twentyfirstcenturygent.com/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Restart Your Style": {
    "url": "https://restartyourstyle.com/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 520",
    "stories": 0
   },
   "Gallucks": {
@@ -2168,17 +2168,17 @@
   },
   "Sustainably Chic": {
    "url": "https://www.sustainably-chic.com/blog?format=RSS",
-   "status": "not a feed",
+   "status": "HTTPError 502",
    "stories": 0
   },
   "Ecocult": {
    "url": "https://ecocult.com/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 520",
    "stories": 0
   },
   "Conscious Life and Style": {
    "url": "https://www.consciouslifeandstyle.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Style Bee": {
@@ -2213,7 +2213,7 @@
   },
   "Sew Pomona": {
    "url": "https://sewpomona.com/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 502",
    "stories": 0
   },
   "Cherry on Top": {
@@ -2308,7 +2308,7 @@
   },
   "My Haute Life": {
    "url": "https://myhautelife.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "The F-Drug": {
@@ -2423,8 +2423,8 @@
   },
   "Curvaceously Bee": {
    "url": "https://www.curvaceouslybee.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Fashion Schlub": {
    "url": "https://fashionschlub.com/feed/",
@@ -2533,7 +2533,7 @@
   },
   "SuppleChic": {
    "url": "https://www.supplechic.com/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Guy Overboard": {
@@ -2543,8 +2543,8 @@
   },
   "Curvily": {
    "url": "https://curvilyfashion.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Natalie in the City": {
    "url": "https://www.natalieinthecity.com/feeds/posts/default",
@@ -2608,7 +2608,7 @@
   },
   "Ali Levine": {
    "url": "https://www.alilevine.com/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 403",
    "stories": 0
   },
   "Is This Mutton?": {
@@ -2683,8 +2683,8 @@
   },
   "StartUp FASHION": {
    "url": "https://startupfashion.com/category/fashion-business-advice-and-tips/feed/",
-   "status": "HTTPError 429",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "The Fashion Retailer": {
    "url": "https://fashionretail.blog/feed/",
@@ -2783,8 +2783,8 @@
   },
   "StyleCraze": {
    "url": "https://www.stylecraze.com/feed/",
-   "status": "HTTPError 403",
-   "stories": 0
+   "status": "ok",
+   "stories": 25
   },
   "Ashley Weston": {
    "url": "https://ashleyweston.com/feed/",
@@ -2793,12 +2793,12 @@
   },
   "Flaunt and Center": {
    "url": "https://www.flauntandcenter.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Foreign Fresh & Fierce": {
    "url": "https://www.foreignfreshfierce.com/feed/?x=1",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "The Outfit Repeater": {
@@ -2848,8 +2848,8 @@
   },
   "The Directrice": {
    "url": "https://thedirectrice.com/feed/",
-   "status": "HTTPError 502",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "The Docket Blog": {
    "url": "https://thedocketblog.com/feed/",
@@ -2858,7 +2858,7 @@
   },
   "Legal Lee Blonde": {
    "url": "https://www.legalleeblonde.com/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Luso Life – Style": {
@@ -2923,12 +2923,12 @@
   },
   "Glam Karen": {
    "url": "https://glamkaren.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Styled By Sally": {
    "url": "https://www.styledbysally.com.au/styled-by-sally-fashion-advice/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "SoSensational": {
@@ -2938,8 +2938,8 @@
   },
   "Articles of Interest": {
    "url": "https://articlesofinterest.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Vintage Dancer": {
    "url": "http://vintagedancer.com/feed/",
@@ -2973,8 +2973,8 @@
   },
   "StrangeBlog": {
    "url": "https://www.strangegirl.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Gracefully Vintage": {
    "url": "http://www.gracefullyvintage.com.au/feeds/posts/default?alt=rss",
@@ -3028,8 +3028,8 @@
   },
   "The Dressed Aesthetic": {
    "url": "https://thedressedaesthetic.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "Empress Vintage": {
    "url": "https://empressvintage.com/blogs/empress-blog.atom",
@@ -3093,7 +3093,7 @@
   },
   "Housakicks": {
    "url": "https://housakicks.com/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 502",
    "stories": 0
   },
   "The Sneaker Addict": {
@@ -3108,8 +3108,8 @@
   },
   "Kicksaddict": {
    "url": "https://kicksaddict.com/rss",
-   "status": "HTTPError 429",
-   "stories": 0
+   "status": "ok",
+   "stories": 20
   },
   "Footpatrol Blog": {
    "url": "https://blog.footpatrol.com/feed/",
@@ -3178,7 +3178,7 @@
   },
   "CollectiveKicks": {
    "url": "https://www.collectivekicks.com/feed/",
-   "status": "not a feed",
+   "status": "HTTPError 502",
    "stories": 0
   },
   "CNK Daily": {
@@ -3488,12 +3488,12 @@
   },
   "All the Pretty Birds": {
    "url": "https://www.alltheprettybirds.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Fannice Kids Fashion": {
    "url": "https://fannicefashion.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Paola Lauretano": {
@@ -3508,12 +3508,12 @@
   },
   "The Cihc": {
    "url": "https://www.thecihc.com/en/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "The Lookmaker (Enrica Scielzo)": {
    "url": "https://enricascielzo.com/feed",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Glamour Marmalade": {
@@ -3523,7 +3523,7 @@
   },
   "Fleur d'Hiver": {
    "url": "https://fleurdhiver.com/feed/",
-   "status": "not a feed",
+   "status": "RemoteDisconnected",
    "stories": 0
   },
   "Fashion Editorials": {
@@ -4228,8 +4228,8 @@
   },
   "Big Salad (Joanna Goddard)": {
    "url": "https://joannagoddard.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Blackbird Spyplane (Jonah Weiner & Erin Wylie)": {
    "url": "https://www.blackbirdspyplane.com/feed",
@@ -4238,73 +4238,73 @@
   },
   "5 Things You Should Buy (Becky Malinsky)": {
    "url": "https://5thingsyoushouldbuy.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Trade Offs (Julia & Thomas Berolzheimer)": {
    "url": "https://makingtradeoffs.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Remotely (Lucy Williams)": {
    "url": "https://lucywilliams02.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "The Wardrobe Edit (Anna Newton)": {
    "url": "https://annanewton.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "The Cereal Aisle (Leandra Medine Cohen)": {
    "url": "https://leandramcohen.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "The Allison Bornstein Newsletter (Allison Bornstein)": {
    "url": "https://allisonbornstein.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "General Mix (Rockandfiocc)": {
    "url": "https://rockandfiocc.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "The French Woman (Garance Doré)": {
    "url": "https://garancedore.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Scratch Pad (Grace Atwood)": {
    "url": "https://graceatwood.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "FLESH WORLD (Jessica DeFino)": {
    "url": "https://jessicadefino.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Fwd: from a friend (Emily Schuman)": {
    "url": "https://emilyschuman.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Boobs & Loubs (Morgan Stewart McGraw)": {
    "url": "https://boobsandloubs.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "So Many Thoughts (Elizabeth Holmes)": {
    "url": "https://somanythoughts.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Girls of a Certain Age (Kim France)": {
    "url": "https://kimfrance.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "The Molehill (Viv Chen)": {
    "url": "https://www.themolehill.net/feed",
@@ -4313,18 +4313,18 @@
   },
   "JAKE WOOLF (Jake Woolf)": {
    "url": "https://jakewoolf.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Earl Earl (Laurel Pantin)": {
    "url": "https://laurelpantin.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Habitually Chic (Heather Clawson)": {
    "url": "https://habituallychic.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "The Love List (Jess Graves)": {
    "url": "https://www.thelovelist.wtf/feed",
@@ -4338,13 +4338,13 @@
   },
   "oh mon dieu (Courtney Grow)": {
    "url": "https://courtneygrow.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Les Édits Privés (Léonce Chenal)": {
    "url": "https://leoncechenal.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Magasin (Laura Reilly)": {
    "url": "https://www.magasin.ltd/feed",
@@ -4353,63 +4353,63 @@
   },
   "Cyclical (Mandy Lee)": {
    "url": "https://oldloserinbrooklyn.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Brain Matter (Gabriella Karefa-Johnson)": {
    "url": "https://brainmatterbygkj.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Smooth Brain (Ali Whittle)": {
    "url": "https://smoothbrainthoughts.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Add To Wishlist (Otegha Uwagba)": {
    "url": "https://addtowishlist.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Back Row (Amy Odell)": {
    "url": "https://amyodell.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "In The Details (Molly Blutstein)": {
    "url": "https://mollyblutstein.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Discoursted (Louis Pisano)": {
    "url": "https://louispisano.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Chic Things (Julia Rabinowitsch)": {
    "url": "https://themillennialdecorator.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Hi Everyone (Hillary Kerr)": {
    "url": "https://hillarykerr.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Gumshoe (Harling Ross Anton)": {
    "url": "https://gumshoe.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Presentable (Victor Kernes)": {
    "url": "https://presentable.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "Hardly Revolutionary": {
    "url": "https://hardlyrevolutionary.substack.com/feed",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 403",
+   "stories": 0
   }
  }
 }
