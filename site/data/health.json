@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:37:58+00:00",
+ "updated": "2026-11-23T21:24:29+00:00",
  "feeds": {
   "Vogue": {
    "url": "https://www.vogue.com/feed/rss",
@@ -94,7 +94,7 @@
   "Highsnobiety": {
    "url": "https://www.highsnobiety.com/feeds/rss",
    "status": "ok",
-   "stories": 6
+   "stories": 5
   },
   "Editorialist": {
    "url": "https://editorialist.com/feed/",
@@ -653,8 +653,8 @@
   },
   "Coco Bassey": {
    "url": "https://cocobassey.com/category/fashion/feed/",
-   "status": "ok",
-   "stories": 25
+   "status": "TimeoutError",
+   "stories": 0
   },
   "Style Pantry": {
    "url": "https://stylepantry.com/feed/",
@@ -813,8 +813,8 @@
   },
   "Love.Style.Mindfulness": {
    "url": "https://www.lovestylemindfulness.co.uk/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "Buckets & Spades": {
    "url": "http://www.bucketsandspadesblog.com/feeds/posts/default",
@@ -998,8 +998,8 @@
   },
   "Man For Himself": {
    "url": "https://manforhimself.com/feed/",
-   "status": "ok",
-   "stories": 20
+   "status": "URLError",
+   "stories": 0
   },
   "What Olivia Did": {
    "url": "https://whatoliviadid.com/feed/",
@@ -1053,8 +1053,8 @@
   },
   "Sandra Semburg": {
    "url": "https://www.sandrasemburg.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Fashion Vernissage": {
    "url": "https://fashionvernissage.com/feed/",
@@ -1168,7 +1168,7 @@
   },
   "Infur Magazine": {
    "url": "https://www.infurmag.com/feed/",
-   "status": "not a feed",
+   "status": "no stories",
    "stories": 0
   },
   "Pursuitist": {
@@ -1388,7 +1388,7 @@
   },
   "Acclaim Magazine": {
    "url": "https://acclaimmag.com/category/style/feed/",
-   "status": "HTTPError 403",
+   "status": "TimeoutError",
    "stories": 0
   },
   "Kith Blog": {
@@ -1478,8 +1478,8 @@
   },
   "Zanita Studio": {
    "url": "https://zanita.com/blog/category/fashion/feed/",
-   "status": "HTTPError 500",
-   "stories": 0
+   "status": "ok",
+   "stories": 12
   },
   "Denim Is the New Black": {
    "url": "https://denimisthenewblack.com/feed/",
@@ -1558,8 +1558,8 @@
   },
   "Drapers": {
    "url": "https://www.drapersonline.com/feed",
-   "status": "HTTPError 403",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Fibre2Fashion": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU6fF5ds7_V3pluh5sZvA",
@@ -2183,7 +2183,7 @@
   },
   "Style Bee": {
    "url": "https://stylebee.ca/feed/",
-   "status": "HTTPError 404",
+   "status": "URLError",
    "stories": 0
   },
   "Seasons + Salt": {
@@ -2258,8 +2258,8 @@
   },
   "Aishwarya Iyengar": {
    "url": "https://aishwaryaiyengar.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Bowties and Bones": {
    "url": "https://bowtiesandbones.com/feed/",
@@ -2619,7 +2619,7 @@
   "Mirror – Style": {
    "url": "https://www.mirror.co.uk/3am/style/?service=rss",
    "status": "ok",
-   "stories": 9
+   "stories": 10
   },
   "Does My Bum Look 40 In This?": {
    "url": "http://doesmybumlook40.blogspot.com/feeds/posts/default?alt=rss",
@@ -2668,8 +2668,8 @@
   },
   "Apparel Entrepreneurship": {
    "url": "https://www.apparelentrepreneurship.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "A Shaded View on Fashion": {
    "url": "https://ashadedviewonfashion.com/feed/",
@@ -2693,8 +2693,8 @@
   },
   "Retail Gazette – Fashion": {
    "url": "https://www.retailgazette.co.uk/blog/category/all/fashion/feed/",
-   "status": "HTTPError 403",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "RetailDetail – Fashion": {
    "url": "https://www.retaildetail.eu/category/fashion/feed/",
@@ -2743,8 +2743,8 @@
   },
   "Oh So Glam": {
    "url": "http://www.ohsoglam.com/feed/",
-   "status": "HTTPError 504",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Allyson in Wonderland": {
    "url": "https://allysoninwonderland.com/feed/",
@@ -3158,8 +3158,8 @@
   },
   "Cool Sneakers": {
    "url": "https://www.coolsneakers.dk/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "The Deffest": {
    "url": "https://www.thedeffest.com/blog?format=rss",
@@ -3668,8 +3668,8 @@
   },
   "Holy Cows Berlin": {
    "url": "https://holycows-berlin.de/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "schickaa": {
    "url": "https://www.schickaa.com/feed/",

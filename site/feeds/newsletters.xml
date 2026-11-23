@@ -4,8 +4,26 @@
 <title>Fashion RSS: Newsletters</title>
 <link>https://For3stpunk.github.io/fashion-rss</link>
 <atom:link href="https://For3stpunk.github.io/fashion-rss/feeds/newsletters.xml" rel="self" type="application/rss+xml"/>
-<description>Newsletters from 164 recent stories across the fashion media directory.</description>
-<lastBuildDate>Mon, 23 Nov 2026 07:37:58 +0000</lastBuildDate>
+<description>Newsletters from 162 recent stories across the fashion media directory.</description>
+<lastBuildDate>Mon, 23 Nov 2026 21:24:29 +0000</lastBuildDate>
+<item>
+<title>Unpolished Watches (Tony Traina): In Singapore, Even Immigration Wears a Submariner | Singapore Dispatch</title>
+<link>https://www.unpolishedwatches.com/p/in-singapore-even-immigration-wears</link>
+<guid isPermaLink="true">https://www.unpolishedwatches.com/p/in-singapore-even-immigration-wears</guid>
+<pubDate>Mon, 23 Nov 2026 15:48:09 +0000</pubDate>
+<category>Newsletter</category>
+<description>Three watch fairs, one weekend, and Roger Smith on why George Daniels might’ve embraced CNC.</description>
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!QxML!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F318cdfec-4a92-4c45-a687-1fcecd962d61_6000x4000.jpeg"/>
+</item>
+<item>
+<title>Magasin (Laura Reilly): 548: Deals spreadsheet dress rehearsal</title>
+<link>https://www.magasin.ltd/p/548-deals-spreadsheet-dress-rehearsal</link>
+<guid isPermaLink="true">https://www.magasin.ltd/p/548-deals-spreadsheet-dress-rehearsal</guid>
+<pubDate>Mon, 23 Nov 2026 15:40:28 +0000</pubDate>
+<category>Newsletter</category>
+<description>Paid subs get a three-day early look.</description>
+<media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/13b7faf6-f89a-4b46-acbe-73d7cb356a80_1440x1920.jpeg"/>
+</item>
 <item>
 <title>The Love List (Jess Graves): Pajama Power Shopping, Vol. 2: The Sale Selects</title>
 <link>https://www.thelovelist.wtf/p/pajama-power-shopping-vol-2-the-sale</link>
@@ -1445,42 +1463,6 @@
 <category>Newsletter</category>
 <description>In Vivo: October edition with Sami Reiss on sardines, me on needles and saunas</description>
 <media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/065b98bd-d622-4936-8d2a-a7a983e32402_4284x5712.heic"/>
-</item>
-<item>
-<title>The Love List (Jess Graves): Join Me at Biologique Recherche</title>
-<link>https://www.thelovelist.wtf/p/join-me-at-biologique-recherche</link>
-<guid isPermaLink="true">https://www.thelovelist.wtf/p/join-me-at-biologique-recherche</guid>
-<pubDate>Mon, 02 Nov 2026 17:26:34 +0000</pubDate>
-<category>Newsletter</category>
-<description>It’s a reader meetup (with perks) and you’re invited</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!Bojm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2a540a-4b76-4a39-98b3-ca0be1968177_1875x2500.jpeg"/>
-</item>
-<item>
-<title>oh mon dieu (Courtney Grow): The Department of Personal Affairs</title>
-<link>https://courtneygrow.substack.com/p/the-department-of-personal-affairs</link>
-<guid isPermaLink="true">https://courtneygrow.substack.com/p/the-department-of-personal-affairs</guid>
-<pubDate>Mon, 02 Nov 2026 14:01:14 +0000</pubDate>
-<category>Newsletter</category>
-<description>A few loose ends and some really good bits and bobs</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!2Vhw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4834c9b5-3e30-4ec8-8b90-48c3710bc6fb_900x1600.jpeg"/>
-</item>
-<item>
-<title>Girls of a Certain Age (Kim France): Things I bought, things I want</title>
-<link>https://kimfrance.substack.com/p/things-i-bought-things-i-want-ba7</link>
-<guid isPermaLink="true">https://kimfrance.substack.com/p/things-i-bought-things-i-want-ba7</guid>
-<pubDate>Mon, 02 Nov 2026 12:03:17 +0000</pubDate>
-<category>Newsletter</category>
-<description>11/02/26</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!Veke!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F018db9c2-558b-46bc-9d24-cee430bf44fa_884x1306.png"/>
-</item>
-<item>
-<title>Scratch Pad (Grace Atwood): I’ve Changed My Mind About AI (Again)</title>
-<link>https://graceatwood.substack.com/p/ive-changed-my-mind-about-ai-again</link>
-<guid isPermaLink="true">https://graceatwood.substack.com/p/ive-changed-my-mind-about-ai-again</guid>
-<pubDate>Mon, 02 Nov 2026 11:03:50 +0000</pubDate>
-<category>Newsletter</category>
-<description>Plus some analog things I’m doing to stretch my brain a bit</description>
-<media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/072ef45f-0d75-436f-9299-6fd25606470b_1250x833.png"/>
 </item>
 </channel>
 </rss>
