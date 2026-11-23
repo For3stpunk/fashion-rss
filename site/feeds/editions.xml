@@ -5,7 +5,412 @@
 <link>https://For3stpunk.github.io/fashion-rss</link>
 <atom:link href="https://For3stpunk.github.io/fashion-rss/feeds/editions.xml" rel="self" type="application/rss+xml"/>
 <description>Vogue, ELLE, Harper&#x27;s Bazaar, GQ and their editions from 300 recent stories across the fashion media directory.</description>
-<lastBuildDate>Sun, 22 Nov 2026 23:38:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 07:37:58 +0000</lastBuildDate>
+<item>
+<title>ELLE (US): Pisces Daily Horoscope</title>
+<link>https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/</link>
+<guid isPermaLink="true">https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/</guid>
+<pubDate>Mon, 23 Nov 2026 07:00:18 +0000</pubDate>
+<category>Major magazine</category>
+<description>(February 19 - March 20)</description>
+<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/pisces-final-65c5440b949f5.jpg"/>
+</item>
+<item>
+<title>Vogue: Sheroanawe Hakihiiwe’s Tender Record of a Vanishing Amazon</title>
+<link>https://www.vogue.com/article/sheroanawe-hakihiiwe-ica-miami</link>
+<guid isPermaLink="true">https://www.vogue.com/article/sheroanawe-hakihiiwe-ica-miami</guid>
+<pubDate>Mon, 23 Nov 2026 06:56:22 +0000</pubDate>
+<category>Major magazine</category>
+<description>On view through March 28, 2027, “Sheroanawe Hakihiiwe” at ICA Miami brings together more than 100 works, from his earliest experiments on handmade paper in the 1990s to breathtaking installations and a newly commissioned film shaped by his recent initiation as a shaman.</description>
+<media:thumbnail url="https://assets.vogue.com/photos/6b03de8b7af2a634ae2cff73/master/pass/SH1789.jpg"/>
+</item>
+<item>
+<title>British GQ: Range Rover&#x27;s new Sport Electric has got serious range</title>
+<link>https://www.gq-magazine.co.uk/article/range-rover-sport-electric-23-11-2026</link>
+<guid isPermaLink="true">https://www.gq-magazine.co.uk/article/range-rover-sport-electric-23-11-2026</guid>
+<pubDate>Mon, 23 Nov 2026 06:47:03 +0000</pubDate>
+<category>GQ edition</category>
+<description>It looks deadly, has insane off-road capability and feels like the most complete luxury SUV in the EV game</description>
+<media:thumbnail url="https://media.gq-magazine.co.uk/photos/6b008546584a900769924669/master/pass/rangerover.png"/>
+</item>
+<item>
+<title>British GQ: We&#x27;d gladly watch a doco about Lance Oppenheim&#x27;s vintage Rolex</title>
+<link>https://www.gq-magazine.co.uk/article/lance-oppenheim-watch-rolex-23-11-26</link>
+<guid isPermaLink="true">https://www.gq-magazine.co.uk/article/lance-oppenheim-watch-rolex-23-11-26</guid>
+<pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+<category>GQ edition</category>
+<description>Unsurprisingly, the Primetime and You Can See Everything director has a “niche, incredibly inside-baseball” watch</description>
+<media:thumbnail url="https://media.gq-magazine.co.uk/photos/6afed5cd6e55504ef73f0d95/master/pass/Lance-Oppenheim-watch.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi dei Gemelli: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-gemelli</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-gemelli</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale dei Gemelli</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d090ccbb6e78678dced2c/master/pass/oroscopo%20oggi%20gemelli.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi del Toro: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-toro</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-toro</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale del Toro</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d0717d918c058e5b7d186/master/pass/oroscopo%20oggi%20toro.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi dell&#x27;Acquario: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-acquario</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-acquario</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale dell&#x27;Acquario</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d19fdc9c01d216075c8c5/master/pass/oroscopo%20oggi%20acquario.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi della Bilancia: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-bilancia</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-bilancia</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale della Bilancia</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d10960aa5446497b1d048/master/pass/oroscopo%20oggi%20bilancia.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi della Vergine: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-vergine</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-vergine</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale della Vergine</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d0e8ce8a715e2a30410b3/master/pass/oroscopo%20oggi%20vergine.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi dei Pesci: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-pesci</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-pesci</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale dei Pesci</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d1c67c9c01d216075c8c7/master/pass/oroscopo%20oggi%20pesci.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi del Cancro: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-cancro</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-cancro</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale del Cancro</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d0aade5bd17a26ad5ebe6/master/pass/oroscopo%20oggi%20cancro.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi dello Scorpione: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-scorpione</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-scorpione</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale dello Scorpione</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d123a94a350dec390bee3/master/pass/oroscopo%20oggi%20scorpione.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi del Leone: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-leone</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-leone</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale del Leone</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d0cee94a350dec390bee1/master/pass/oroscopo%20oggi%20leone.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi del Capricorno cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-capricorno</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-capricorno</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale del Capricorno</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d1634e4b776b639bade47/master/pass/oroscopo%20oggi%20capricorno.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi del Sagittario: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-sagittario</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-sagittario</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale del Sagittario</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d13ffcbb6e78678dced2e/master/pass/oroscopo%20oggi%20Sagittario.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Oroscopo di oggi dell&#x27;Ariete: cosa ti riservano le stelle?</title>
+<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-ariete</link>
+<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-ariete</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Oroscopo di oggi 23 novembre 2026, le previsioni astrologiche per il segno zodiacale dell&#x27;Ariete</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/680d056de8a715e2a30410b1/master/pass/oroscopo%20oggi%20ariete.jpg"/>
+</item>
+<item>
+<title>Vogue: Who Will Win the Chinese Sportswear Race?</title>
+<link>https://www.vogue.com/article/who-will-win-the-chinese-sportswear-race</link>
+<guid isPermaLink="true">https://www.vogue.com/article/who-will-win-the-chinese-sportswear-race</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Major magazine</category>
+<description>China’s sportswear market is building speed. Can domestic brands overtake their Western counterparts?</description>
+<media:thumbnail url="https://assets.vogue.com/photos/6b0050e89072b58902dbfeca/master/pass/11-23-26-CHINA-SPORTSWEAR-BOOM-vogue-business-story.jpg"/>
+</item>
+<item>
+<title>Vogue: The New Rules for Selling Beauty in China</title>
+<link>https://www.vogue.com/article/the-new-rules-for-selling-beauty-in-china</link>
+<guid isPermaLink="true">https://www.vogue.com/article/the-new-rules-for-selling-beauty-in-china</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Major magazine</category>
+<description>Coinciding with changing perceptions of ‘Made in China’, the country’s beauty landscape is shifting from a period of general expansion to one that is hyper-selective and value-driven, with clear winners and losers.</description>
+<media:thumbnail url="https://assets.vogue.com/photos/6b007a639072b58902dc0292/master/pass/11-20-26-C-BEAUTY-vogue-business-story.jpg"/>
+</item>
+<item>
+<title>Vogue: Western Brands Need a New China Playbook</title>
+<link>https://www.vogue.com/article/western-brands-need-a-new-china-playbook</link>
+<guid isPermaLink="true">https://www.vogue.com/article/western-brands-need-a-new-china-playbook</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Major magazine</category>
+<description>After an almost three-year slump, China’s luxury market is showing signs of recovery. Western brands need to act quickly by rationalizing distribution, localizing output, and planning for the future to increase relevance.</description>
+<media:thumbnail url="https://assets.vogue.com/photos/6b007e6fc1039394d6a582ea/master/pass/11-23-26-CHINA-LUXURY-WESTERN-vogue-business-story.jpg"/>
+</item>
+<item>
+<title>Vogue: China’s Luxury Problem Is Bigger Than the Economy</title>
+<link>https://www.vogue.com/article/chinas-luxury-problem-is-bigger-than-the-economy</link>
+<guid isPermaLink="true">https://www.vogue.com/article/chinas-luxury-problem-is-bigger-than-the-economy</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Major magazine</category>
+<description>From changing attitudes toward exclusivity to the rise of domestic competitors, Chinese consumers are questioning what makes luxury worth paying for — and who gets to decide.</description>
+<media:thumbnail url="https://assets.vogue.com/photos/6b007eca4f6325c7f4c6c091/master/pass/11-23-26-CHINA-MARKET-KEY-TAKEAWAYS-vogue-business-story.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Dieta Whole Foods: come funziona e cosa mangiare</title>
+<link>https://www.vogue.it/article/dieta-whole-foods-cos-e-come-funziona-benefici-cosa-mangiare</link>
+<guid isPermaLink="true">https://www.vogue.it/article/dieta-whole-foods-cos-e-come-funziona-benefici-cosa-mangiare</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Parliamo della dieta whole foods a base di alimenti non trasformati, un regime alimentare sanissimo e facile da implementare, che non richiede complicati protocolli e non ha alcuna controindicazione.</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/6ae1d2c4521de76929b53b23/master/pass/GettyImages-1365267151.jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Revitalift Laser di L&#x27;Oréal, la crema giorno bestseller dall&#x27;effetto botox like scontata del 50%</title>
+<link>https://www.vogue.it/article/revitalift-laser-crema-giorno-loreal-benefici-black-friday-2026</link>
+<guid isPermaLink="true">https://www.vogue.it/article/revitalift-laser-crema-giorno-loreal-benefici-black-friday-2026</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Dal pro-retinolo alla vitamina C, fino all&#x27;Argireline: cosa contiene la crema giorno Revitalift Laser, che vende oltre 6.000 barattoli al mese solo su Amazon</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/6b034a60a0498be33c8b49f2/master/pass/Situationist%20bks%20S27%20029%20(1).jpg"/>
+</item>
+<item>
+<title>Vogue Italia: Le sneakers Nike nere (ora in sconto per il Black Friday) sono sempre una buona idea, parola di Kaia Gerber</title>
+<link>https://www.vogue.it/article/sneakers-nike-nere-preferite-kaia-gerber-black-friday-2026</link>
+<guid isPermaLink="true">https://www.vogue.it/article/sneakers-nike-nere-preferite-kaia-gerber-black-friday-2026</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Spuntano sotto i look off-duty, abbinate a jeans e cappotti lunghi: per Kaia Gerber le sneakers Nike nere sono un must, e le trovi in sconto al Black Friday 2026</description>
+<media:thumbnail url="https://compass-media.vogue.it/photos/6924e666ff227cd94d86ae10/master/pass/GettyImages-2151590115_85eb87.png"/>
+</item>
+<item>
+<title>ELLE UK: Your Daily Horoscope For Every Star Sign On 23rd November 2026</title>
+<link>https://www.elle.com/uk/horoscopes/a74498066/23rd-november-2026-daily-horoscope/</link>
+<guid isPermaLink="true">https://www.elle.com/uk/horoscopes/a74498066/23rd-november-2026-daily-horoscope/</guid>
+<pubDate>Mon, 23 Nov 2026 05:30:00 +0000</pubDate>
+<category>ELLE edition</category>
+<description>What today may have in store for you with regards to career, love, health and relationships</description>
+<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/ho12-66ffad16e2263.jpg"/>
+</item>
+<item>
+<title>Vogue Taiwan: Chanel又推出一雙引發爭議的鞋款，而且已經成為熱賣話題</title>
+<link>https://www.vogue.com.tw/article/chanel-thigh-high-rain-boots-fall-shoe</link>
+<guid isPermaLink="true">https://www.vogue.com.tw/article/chanel-thigh-high-rain-boots-fall-shoe</guid>
+<pubDate>Mon, 23 Nov 2026 05:27:03 +0000</pubDate>
+<category>Vogue edition</category>
+<description>又一雙造型奇特的鞋款加入戰局：消費者正湧入 Chanel 專門店，搶購品牌最新推出的過大腿高筒涉水靴。</description>
+<media:thumbnail url="https://media.vogue.com.tw/photos/6b03cd4e0b16a5b0ac0f15e7/master/pass/Chanel_Rain_3x4.jpg"/>
+</item>
+<item>
+<title>Vogue Taiwan: Netflix美劇《青春共體The Body》服裝設計師Mirren Gordon-Crozier，如何打造最具代表性的2000年代時尚風格？</title>
+<link>https://www.vogue.com.tw/article/the-body-costume-designer-mirren-gordon-crozier-interview</link>
+<guid isPermaLink="true">https://www.vogue.com.tw/article/the-body-costume-designer-mirren-gordon-crozier-interview</guid>
+<pubDate>Mon, 23 Nov 2026 04:39:19 +0000</pubDate>
+<category>Vogue edition</category>
+<description>「某種程度上，我覺得自己認識這些女孩。我想，或許我們都有這種感覺。」Netflix 影集《The Body》服裝設計師 Mirren Gordon-Crozier 說道。</description>
+<media:thumbnail url="https://media.vogue.com.tw/photos/6b03c15a832e5bf2599ac381/master/pass/The_Body_n_S1_E6_00_22_28_20RC.jpg"/>
+</item>
+<item>
+<title>Vogue Taiwan: 2026黑五電商折扣總整理！25個品牌優惠一次看</title>
+<link>https://www.vogue.com.tw/article/black-friday</link>
+<guid isPermaLink="true">https://www.vogue.com.tw/article/black-friday</guid>
+<pubDate>Mon, 23 Nov 2026 04:10:56 +0000</pubDate>
+<category>Vogue edition</category>
+<description>時尚精品、美妝保養、旅遊住宿，年度最高優惠就是現在，面對黑五令人心動的價格，此刻正是滿足願望清單的最佳時機。</description>
+<media:thumbnail url="https://media.vogue.com.tw/photos/6926746e022f918283b53dbf/master/pass/515396250"/>
+</item>
+<item>
+<title>InStyle: Martha Stewart Wore White Jeans With a Cozy Sweater, Giving You Permission to Break One Outdated Fashion Rule</title>
+<link>https://www.instyle.com/martha-stewart-white-jeans-fall-2026-12264795</link>
+<guid isPermaLink="true">https://www.instyle.com/martha-stewart-white-jeans-fall-2026-12264795</guid>
+<pubDate>Mon, 23 Nov 2026 02:30:00 +0000</pubDate>
+<category>Major magazine</category>
+<description>Snag lookalike pairs from Levi’s and Wrangler.</description>
+<media:thumbnail url="https://www.instyle.com/thmb/XxHwn-5Wkw_d3qNvJuBkQRqz6G8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/021826-martha-stewart-cfc87699ef7e42e1931d4dd7518db8a3.jpg"/>
+</item>
+<item>
+<title>Vogue India: Latest OTT releases (November 23-November 29): 17 new movies and TV shows on Netflix, Prime Video, JioHotstar and more</title>
+<link>https://www.vogue.in/content/latest-ott-releases-streaming-netflix-prime-video-jiohotstar-november-23-november-29-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/latest-ott-releases-streaming-netflix-prime-video-jiohotstar-november-23-november-29-2026</guid>
+<pubDate>Mon, 23 Nov 2026 02:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Looking to add to your watchlist? Gagan Arora navigates cutthroat power struggles in Dhai Chaal, and Chris Pratt plays an injured Navy SEAL mentoring his bullied nephew in Way of the Warrior Kid</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6b0038b6c14f4f4d29779896/master/pass/Dhai%20Chaal.png"/>
+</item>
+<item>
+<title>Vogue Taiwan: 聖誕跨年約會提案！星巴克金星薈聯手米其林名廚 Olivier Elzer，打造台北101景觀法式饗宴</title>
+<link>https://www.vogue.com.tw/article/星巴克-olivier-elzer</link>
+<guid isPermaLink="true">https://www.vogue.com.tw/article/星巴克-olivier-elzer</guid>
+<pubDate>Mon, 23 Nov 2026 02:08:57 +0000</pubDate>
+<category>Vogue edition</category>
+<description>聖誕與跨年聚會還沒訂位嗎？位於信義區星巴克典藏 DREAM PLAZA 台北6樓的「金星薈 Siren’s Lounge」，攜手職涯累積近30顆米其林星級肯定的法餐名廚 Olivier Elzer，推出「星璨饗宴」午晚間套餐，並於12月2日加碼推出歲末限定的「法式祕密花園」下午茶。在台北101城市景觀相伴下，從致敬侯布雄的經典魚子醬盒、桌邊現開的煙燻美國 Prime 牛菲力，到館內限定的聖誕造型甜點與 STAR Selects 客製化刺繡禮品，為年末約會與好友相聚打造從午後延續到夜晚的儀式感體驗。</description>
+<media:thumbnail url="https://media.vogue.com.tw/photos/6b039d3208a1b61a0812e945/master/pass/0.jpg"/>
+</item>
+<item>
+<title>Vogue México y Latinoamérica: Maxton Hall temporada 3: Todo lo que debes saber sobre la entrega</title>
+<link>https://www.vogue.mx/articulo/maxton-hall-temporada-3</link>
+<guid isPermaLink="true">https://www.vogue.mx/articulo/maxton-hall-temporada-3</guid>
+<pubDate>Mon, 23 Nov 2026 01:48:48 +0000</pubDate>
+<category>Vogue edition</category>
+<description>La temporada 3 de Maxton Hall llega Prime Video el 9 de diciembre de 2026. Esto sabemos de la trama, los personajes y todo lo que pasará.</description>
+<media:thumbnail url="https://media.vogue.mx/photos/6b039acbefc64a64a94ba24a/master/pass/maxton-hall-temporada-3.jpg"/>
+</item>
+<item>
+<title>Vogue India: Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:30:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/master/pass/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png"/>
+</item>
+<item>
+<title>Vogue India: Taurus Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/taurus-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/taurus-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912dd65ee2e104d623d6d33/master/pass/2-Taurus_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Cancer Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/cancer-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/cancer-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e04b32f6a7f382599b6a/master/pass/4-Cancer_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Aries Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/aries-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/aries-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/master/pass/1-Aries_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Gemini Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/gemini-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/gemini-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e04cf280aa95e93d0629/master/pass/3-Gemini_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Leo Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/leo-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/leo-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e04db6cb334650d382b9/master/pass/6-Leo_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Sagittarius Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/sagittarius-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/sagittarius-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/master/pass/10-Sagittarius_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Virgo Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/virgo-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/virgo-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e04c0eb279a773d39008/master/pass/7-Virgo_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Scorpio Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/scorpio-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/scorpio-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/master/pass/9-Scorpio_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Libra Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/libra-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/libra-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e04d23f3d66ec7d06816/master/pass/8-Libra_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Aquarius Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/aquarius-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/aquarius-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e055135022eaa114c0cd/master/pass/13-Aquarius_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Pisces Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/pisces-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/pisces-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e054f07905602c8158cf/master/pass/14-Pisces_16;9.png"/>
+</item>
+<item>
+<title>Vogue India: Capricorn Horoscope Today: November 23, 2026</title>
+<link>https://www.vogue.in/content/capricorn-horoscope-today-november-23-2026</link>
+<guid isPermaLink="true">https://www.vogue.in/content/capricorn-horoscope-today-november-23-2026</guid>
+<pubDate>Mon, 23 Nov 2026 00:20:00 +0000</pubDate>
+<category>Vogue edition</category>
+<description>See what the stars have in store for your sign</description>
+<media:thumbnail url="https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/master/pass/12-Capricorn_16;9.png"/>
+</item>
+<item>
+<title>Vogue México y Latinoamérica: Jennifer Lopez se arriesga con un look sin pantalones, medias y zapatos de tacón color grosella en tendencia para otoño 2026</title>
+<link>https://www.vogue.mx/articulo/jennifer-lopez-con-look-sin-pantalones-medias-y-zapatos-color-grosella</link>
+<guid isPermaLink="true">https://www.vogue.mx/articulo/jennifer-lopez-con-look-sin-pantalones-medias-y-zapatos-color-grosella</guid>
+<pubDate>Mon, 23 Nov 2026 00:02:38 +0000</pubDate>
+<category>Vogue edition</category>
+<description>Jennifer Lopez combinó un look arriesgado con medias vino y zapatos de tacón en color grosella para una aparición en un programa de radio.</description>
+<media:thumbnail url="https://media.vogue.mx/photos/6b037956fe0fc88fedb2a04d/master/pass/GettyImages-2305553207.jpg"/>
+</item>
 <item>
 <title>Vogue Taiwan: 為什麼Alexander Skarsgård紅毯越穿越大膽？從皮革牽繩到露背襯衫，他用紅毯造型重新定義性感男神</title>
 <link>https://www.vogue.com.tw/article/alexander-skarsgard-kinky-method-dressing-red-carpet-style</link>
@@ -286,7 +691,7 @@
 <media:thumbnail url="https://media.vogue.mx/photos/6b024ad0ad895c9c55f98843/master/pass/leggings-shushutong-oto%C3%B1o-invierno-2026.jpg"/>
 </item>
 <item>
-<title>Vogue Taiwan: 台中鹽之華餐廳端秋季旬味，創辦人黎俞君主廚獲頒法國農業功勳勳章，以20年法餐功底演繹秋日風土與人生記憶</title>
+<title>Vogue Taiwan: 台中鹽之華餐廳端秋冬旬味，創辦人黎俞君主廚獲頒法國農業功勳勳章，以20年法餐功底演繹秋日風土與人生記憶</title>
 <link>https://www.vogue.com.tw/article/台中餐廳-鹽之華-秋季新菜-2026</link>
 <guid isPermaLink="true">https://www.vogue.com.tw/article/台中餐廳-鹽之華-秋季新菜-2026</guid>
 <pubDate>Sun, 22 Nov 2026 16:30:00 +0000</pubDate>
@@ -772,15 +1177,6 @@
 <media:thumbnail url="https://media.vogue.com.tw/photos/6b02bf802038677c3861b339/master/pass/KCIS7869.jpg"/>
 </item>
 <item>
-<title>ELLE (US): Pisces Daily Horoscope</title>
-<link>https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/</link>
-<guid isPermaLink="true">https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/</guid>
-<pubDate>Sun, 22 Nov 2026 07:00:07 +0000</pubDate>
-<category>Major magazine</category>
-<description>(February 19 - March 20)</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/pisces-final-65c5440b949f5.jpg"/>
-</item>
-<item>
 <title>British Vogue: Office-Party Dressing: How Far Should You Push It?</title>
 <link>https://www.vogue.co.uk/article/christmas-office-party-dressing</link>
 <guid isPermaLink="true">https://www.vogue.co.uk/article/christmas-office-party-dressing</guid>
@@ -932,114 +1328,6 @@
 <category>GQ edition</category>
 <description>“It&#x27;s less ‘should I wear Vans again?’ and instead people being genuinely intrigued about the releases and wanting a pair”</description>
 <media:thumbnail url="https://media.gq-magazine.co.uk/photos/6afdb113b4b264bc7a9d64b4/master/pass/Vans.jpeg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi dei Gemelli: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-gemelli</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-gemelli</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale dei Gemelli</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d090ccbb6e78678dced2c/master/pass/oroscopo%20oggi%20gemelli.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi del Toro: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-toro</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-toro</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale del Toro</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d0717d918c058e5b7d186/master/pass/oroscopo%20oggi%20toro.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi dell&#x27;Acquario: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-acquario</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-acquario</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale dell&#x27;Acquario</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d19fdc9c01d216075c8c5/master/pass/oroscopo%20oggi%20acquario.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi della Bilancia: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-bilancia</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-bilancia</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale della Bilancia</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d10960aa5446497b1d048/master/pass/oroscopo%20oggi%20bilancia.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi della Vergine: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-vergine</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-vergine</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale della Vergine</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d0e8ce8a715e2a30410b3/master/pass/oroscopo%20oggi%20vergine.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi dei Pesci: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-pesci</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-pesci</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale dei Pesci</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d1c67c9c01d216075c8c7/master/pass/oroscopo%20oggi%20pesci.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi del Cancro: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-cancro</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-cancro</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale del Cancro</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d0aade5bd17a26ad5ebe6/master/pass/oroscopo%20oggi%20cancro.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi dello Scorpione: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-scorpione</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-scorpione</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale dello Scorpione</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d123a94a350dec390bee3/master/pass/oroscopo%20oggi%20scorpione.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi del Leone: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-leone</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-leone</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale del Leone</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d0cee94a350dec390bee1/master/pass/oroscopo%20oggi%20leone.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi del Capricorno cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-capricorno</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-capricorno</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale del Capricorno</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d1634e4b776b639bade47/master/pass/oroscopo%20oggi%20capricorno.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi del Sagittario: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-sagittario</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-sagittario</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale del Sagittario</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d13ffcbb6e78678dced2e/master/pass/oroscopo%20oggi%20Sagittario.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Oroscopo di oggi dell&#x27;Ariete: cosa ti riservano le stelle?</title>
-<link>https://www.vogue.it/oroscopo/article/oroscopo-oggi-ariete</link>
-<guid isPermaLink="true">https://www.vogue.it/oroscopo/article/oroscopo-oggi-ariete</guid>
-<pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Oroscopo di oggi 22 novembre 2026, le previsioni astrologiche per il segno zodiacale dell&#x27;Ariete</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/680d056de8a715e2a30410b1/master/pass/oroscopo%20oggi%20ariete.jpg"/>
 </item>
 <item>
 <title>Vogue France: Hailey Bieber : le premier blush mat rhode va réconcilier les peaux grasses avec le stick crème</title>
@@ -2417,294 +2705,6 @@
 <category>Major magazine</category>
 <description>Now that the Sunrise on the Reaping film is out, here’s a refresher on the sequence of events.</description>
 <media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/elle-books-suzanne-collins-lead-67d9a18ea9677.jpg"/>
-</item>
-<item>
-<title>Cosmopolitan: Your Guide to Performing Mind-Blowing Oral Sex on a Vulva, According to Sex Experts</title>
-<link>https://sex.cosmopolitan.com/pleasure/a74443941/how-to-eat-out-a-girl/</link>
-<guid isPermaLink="true">https://sex.cosmopolitan.com/pleasure/a74443941/how-to-eat-out-a-girl/</guid>
-<pubDate>Fri, 20 Nov 2026 21:42:23 +0000</pubDate>
-<category>Major magazine</category>
-<description>And no, “spell the alphabet” is not the only suggestion here. You’re welcome.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/howtogodownonawoman-art-6882a533417c6.png"/>
-</item>
-<item>
-<title>Cosmopolitan: Self-Gifting Is Something I&#x27;m Prioritizing This Holiday Season, and This Adore Me Babydoll Set Is at the Top of My List</title>
-<link>https://www.cosmopolitan.com/style-beauty/fashion/a74481174/adore-me-red-babydoll-set/</link>
-<guid isPermaLink="true">https://www.cosmopolitan.com/style-beauty/fashion/a74481174/adore-me-red-babydoll-set/</guid>
-<pubDate>Fri, 20 Nov 2026 21:42:23 +0000</pubDate>
-<category>Major magazine</category>
-<description>And with a discount this good, why not?</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/de6d66ee-b783-4004-982e-418787d523ea.png"/>
-</item>
-<item>
-<title>Cosmopolitan: Here’s How to Watch ‘Sunrise on the Reaping’ ASAP</title>
-<link>https://www.cosmopolitan.com/entertainment/movies/a74492490/how-to-watch-the-hunger-games-sunrise-on-the-reaping/</link>
-<guid isPermaLink="true">https://www.cosmopolitan.com/entertainment/movies/a74492490/how-to-watch-the-hunger-games-sunrise-on-the-reaping/</guid>
-<pubDate>Fri, 20 Nov 2026 21:40:06 +0000</pubDate>
-<category>Major magazine</category>
-<description>Haymiiiiiiiiiiiiiitch!!!!!!!!</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/94e2059f-c911-4781-901e-306951ca529c.jpg"/>
-</item>
-<item>
-<title>Vogue India: Rupa’s ‘Aaj Shanibar’ bombed 44 years ago. Now, it’s playing on GTA 6’s radio stations</title>
-<link>https://www.vogue.in/content/her-debut-album-bombed-42-years-ago-now-at-69-rupa-is-finally-getting-the-praise-she-deserves</link>
-<guid isPermaLink="true">https://www.vogue.in/content/her-debut-album-bombed-42-years-ago-now-at-69-rupa-is-finally-getting-the-praise-she-deserves</guid>
-<pubDate>Fri, 20 Nov 2026 21:36:45 +0000</pubDate>
-<category>Vogue edition</category>
-<description>The genre-bending number from Rupa’s debut album, Disco Jazz, has featured in an international Netflix show, a Loewe campaign and now, GTA 6</description>
-<media:thumbnail url="https://assets.vogue.in/photos/662107bd4dfebfad9a68e1a3/master/pass/Rupa.%207th%20October,%201982.jpg"/>
-</item>
-<item>
-<title>Vogue: The Fair Isle Sweater Is a Winter Favorite for a Reason–Shop 25+ of the Best</title>
-<link>https://www.vogue.com/slideshow/fair-isle-sweater-trend</link>
-<guid isPermaLink="true">https://www.vogue.com/slideshow/fair-isle-sweater-trend</guid>
-<pubDate>Fri, 20 Nov 2026 21:33:20 +0000</pubDate>
-<category>Major magazine</category>
-<description>Here are 28 of the best Fair Isle sweater styles to shop this fall and winter, courtesy of Dries Van Noten, Dôen, and more.</description>
-<media:thumbnail url="https://assets.vogue.com/photos/6b00526636c4d1dab60ed919/master/pass/092426_VogueShopping_Shot02_0327.jpg"/>
-</item>
-<item>
-<title>Cosmopolitan: I Am the Wildest Dream of Every Black and Brown Trans Woman Before Me</title>
-<link>https://www.cosmopolitan.com/lifestyle/a74493735/darie-beauteuss-santana-trans-day-of-remembrance-essay/</link>
-<guid isPermaLink="true">https://www.cosmopolitan.com/lifestyle/a74493735/darie-beauteuss-santana-trans-day-of-remembrance-essay/</guid>
-<pubDate>Fri, 20 Nov 2026 21:28:05 +0000</pubDate>
-<category>Major magazine</category>
-<description>And it is my duty to honor their legacy while making a way for the next generation of trans girls, just like our luminaries did for me.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/b2e17934-2eb5-4f8d-b6b6-1531ccad3c6d.jpg"/>
-</item>
-<item>
-<title>W Magazine: Rosalía’s Couture Bird Headpiece Practically Takes Flight</title>
-<link>https://www.wmagazine.com/fashion/rosalia-bird-headpiece-robert-wun-couture-los-40-music-awards</link>
-<guid isPermaLink="true">https://www.wmagazine.com/fashion/rosalia-bird-headpiece-robert-wun-couture-los-40-music-awards</guid>
-<pubDate>Fri, 20 Nov 2026 21:17:10 +0000</pubDate>
-<category>Major magazine</category>
-<description>&quot;Put a bird on it,&quot; as they say.</description>
-<media:thumbnail url="https://imgix.bustle.com/uploads/getty/2026/11/20/79cfe86f/barcelona-spain-november-20.jpg?w=1200&amp;fit=max"/>
-</item>
-<item>
-<title>Vogue: Winter’s Top Boot Color Isn’t Brown or Black—It’s Burgundy</title>
-<link>https://www.vogue.com/article/burgundy-boots-winter-trend</link>
-<guid isPermaLink="true">https://www.vogue.com/article/burgundy-boots-winter-trend</guid>
-<pubDate>Fri, 20 Nov 2026 21:03:37 +0000</pubDate>
-<category>Major magazine</category>
-<description>Elegant yet versatile, wine red is the ultimate winter hue for elevating both neutrals and brighter hues. Shop our favorite burgundy boots now.</description>
-<media:thumbnail url="https://assets.vogue.com/photos/6b0075d6b61021cca3f2aa32/master/pass/2265660440"/>
-</item>
-<item>
-<title>ELLE (US): Holiday Travel With Babies and Pets Just Got a Whole Lot Easier</title>
-<link>https://www.elle.com/fashion/shopping/a74493313/holiday-travel-babies-pets-nuna-tavo-bloomingdales/</link>
-<guid isPermaLink="true">https://www.elle.com/fashion/shopping/a74493313/holiday-travel-babies-pets-nuna-tavo-bloomingdales/</guid>
-<pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
-<category>Major magazine</category>
-<description>Smart travel essentials for the whole family—four-legged members included.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/57fcf973-f14b-430f-a6e7-48abdbab831e.jpg"/>
-</item>
-<item>
-<title>Glamour (US): 5 Sneaker Trends We’re Seeing (and Wearing) Everywhere in 2027</title>
-<link>https://www.glamour.com/story/sneaker-trends-2027</link>
-<guid isPermaLink="true">https://www.glamour.com/story/sneaker-trends-2027</guid>
-<pubDate>Fri, 20 Nov 2026 20:55:39 +0000</pubDate>
-<category>Glamour edition</category>
-<description>Our favorites, starting at $23</description>
-<media:thumbnail url="https://media.glamour.com/photos/6aff37c8549788160cbd1510/master/pass/2263642651"/>
-</item>
-<item>
-<title>Cosmopolitan: An Inside Look at Cosmo’s Acne Awards Celebration</title>
-<link>https://www.cosmopolitan.com/style-beauty/beauty/a74493857/cosmo-acne-awards-celebration-2026/</link>
-<guid isPermaLink="true">https://www.cosmopolitan.com/style-beauty/beauty/a74493857/cosmo-acne-awards-celebration-2026/</guid>
-<pubDate>Fri, 20 Nov 2026 20:51:13 +0000</pubDate>
-<category>Major magazine</category>
-<description>Founders, dermatologists, and estheticians joined the Cosmo team for the ultimate relaxing spa night in NYC.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/7c02fbd9-fe8f-4366-8e4c-20f9317b6956.jpg"/>
-</item>
-<item>
-<title>Vogue: The Minimalist’s Holiday Style Guide</title>
-<link>https://www.vogue.com/article/minimalist-holiday-outfits</link>
-<guid isPermaLink="true">https://www.vogue.com/article/minimalist-holiday-outfits</guid>
-<pubDate>Fri, 20 Nov 2026 20:47:53 +0000</pubDate>
-<category>Major magazine</category>
-<description>Shop the minimalist’s guide to holiday dressing, from elegant draped sets to silk separates and perfect party shoes.</description>
-<media:thumbnail url="https://assets.vogue.com/photos/6b0072157677f0dc18077480/master/pass/112026_v1_minimalistholidayholding.jpg"/>
-</item>
-<item>
-<title>W Magazine: Pop Duo Between Friends on the Look Behind the Sound</title>
-<link>https://www.wmagazine.com/wyouth/between-friends-in-moncler</link>
-<guid isPermaLink="true">https://www.wmagazine.com/wyouth/between-friends-in-moncler</guid>
-<pubDate>Fri, 20 Nov 2026 20:40:06 +0000</pubDate>
-<category>Major magazine</category>
-<description>Dressed in Moncler, Brandon and Savannah Hudson open up about how their sound, their style, and the city they call home all shape one another.</description>
-<media:thumbnail url="https://imgix.bustle.com/uploads/image/2026/11/16/6763655d/112197_lwi_wyouthxmoncler_004_05.jpg?w=1200&amp;fit=max"/>
-</item>
-<item>
-<title>Vogue México y Latinoamérica: Dakota Johnson también lleva los mocasines de flecos que están en tendencia este Otoño-Invierno 2026</title>
-<link>https://www.vogue.mx/articulo/dakota-johnson-con-mocasines-de-flecos-otono-invierno-2026</link>
-<guid isPermaLink="true">https://www.vogue.mx/articulo/dakota-johnson-con-mocasines-de-flecos-otono-invierno-2026</guid>
-<pubDate>Fri, 20 Nov 2026 20:37:03 +0000</pubDate>
-<category>Vogue edition</category>
-<description>En su última salida nocturna, la pareja ha apostado por el cuero, el estampado de leopardo y unos mocasines muy particulares.</description>
-<media:thumbnail url="https://media.vogue.mx/photos/6a7201c4359880525c1f2f24/master/pass/dakota-johnson-jeans-y-zapatos-planos.jpg"/>
-</item>
-<item>
-<title>Vogue: How to Style Wide-Leg Jeans, According to the Street Style Set</title>
-<link>https://www.vogue.com/article/how-to-style-wide-leg-jeans</link>
-<guid isPermaLink="true">https://www.vogue.com/article/how-to-style-wide-leg-jeans</guid>
-<pubDate>Fri, 20 Nov 2026 20:30:12 +0000</pubDate>
-<category>Major magazine</category>
-<description>Wide-leg jeans are one of the most popular denim trends, and this is how to style yours, with inspiration straight from the street style set.</description>
-<media:thumbnail url="https://assets.vogue.com/photos/6aff48c340986fc7db27f96a/master/pass/111926_holding_widelegjeans.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: Quali sono le migliori offerte su Amazon al Black Friday 2026? La selezione delle editor di Vogue tra moda, beauty e casa</title>
-<link>https://www.vogue.it/article/migliori-offerte-amazon-black-friday-20-11-2026</link>
-<guid isPermaLink="true">https://www.vogue.it/article/migliori-offerte-amazon-black-friday-20-11-2026</guid>
-<pubDate>Fri, 20 Nov 2026 20:17:52 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Abbiamo sfogliato pagine e pagine Amazon per trovare le migliori offerte al Black Friday 2026. Ecco cosa comprare</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/6b00a14fab519b24a99951f2/master/pass/MCDCOOF_EC132.jpg"/>
-</item>
-<item>
-<title>Glamour (US): 56 Best Early Black Friday Deals, Curated by Pro Shoppers 2026</title>
-<link>https://www.glamour.com/story/best-black-friday-deals-11-20-26</link>
-<guid isPermaLink="true">https://www.glamour.com/story/best-black-friday-deals-11-20-26</guid>
-<pubDate>Fri, 20 Nov 2026 20:14:22 +0000</pubDate>
-<category>Glamour edition</category>
-<description>Here are the discounts actually worth shopping before Thanksgiving</description>
-<media:thumbnail url="https://media.glamour.com/photos/6af49f64d12952dbce2c411e/master/pass/11.06_GL_Best%20Black%20Friday%20Deals_v1.jpg"/>
-</item>
-<item>
-<title>Vogue México y Latinoamérica: Fernanda Castillo y Karla Gaytán hablan de La ley de Alicia: “Cuando estamos chicos olvidamos que mamá es una mujer individual y no es una extensión de ti”</title>
-<link>https://www.vogue.mx/articulo/fernanda-castillo-y-karla-gaytan-entrevista-la-ley-de-alicia</link>
-<guid isPermaLink="true">https://www.vogue.mx/articulo/fernanda-castillo-y-karla-gaytan-entrevista-la-ley-de-alicia</guid>
-<pubDate>Fri, 20 Nov 2026 20:10:09 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Después de su trabajo en La ley de Alicia, Fernanda Castillo y Karla Gaytán conversan sobre sus recuerdos en el set, el ser vulnerables como actrices y a dónde quieren ir.</description>
-<media:thumbnail url="https://media.vogue.mx/photos/6b009627cc4cd41c1d494399/master/pass/fernanda-castillo-karla-gaytan-la-ley-de-alicia.jpg"/>
-</item>
-<item>
-<title>Vogue: Farrar, Straus and Giroux Celebrated Eight Decades of Literary Greats</title>
-<link>https://www.vogue.com/slideshow/farrar-straus-and-giroux-celebrate-eight-decades-of-literary-greats</link>
-<guid isPermaLink="true">https://www.vogue.com/slideshow/farrar-straus-and-giroux-celebrate-eight-decades-of-literary-greats</guid>
-<pubDate>Fri, 20 Nov 2026 19:59:16 +0000</pubDate>
-<category>Major magazine</category>
-<description>Few literary presses can claim a Rolodex as studded with boldface names as Farrar, Straus and Giroux. This week, the publishing house, whose authors have been awarded dozens of National Book Awards, Pulitzer Prizes, and Nobel Prizes in Literature, toasted its 80th anniversary wit</description>
-<media:thumbnail url="https://assets.vogue.com/photos/6b00a1c04f6325c7f4c6ca7d/master/pass/_HERO%20IMAGE_%20Rachel%20Cusk,%20Mitzi%20Angel.jpg"/>
-</item>
-<item>
-<title>W Magazine: The Japanese Hair Oil That Battles Frizz With a Couture-Level Scent</title>
-<link>https://www.wmagazine.com/beauty/diffar-floral-fragrance-hair-oil-review</link>
-<guid isPermaLink="true">https://www.wmagazine.com/beauty/diffar-floral-fragrance-hair-oil-review</guid>
-<pubDate>Fri, 20 Nov 2026 19:52:58 +0000</pubDate>
-<category>Major magazine</category>
-<description>Diffar’s creations tap thousands of years of fragrance know-how, and don&#x27;t skimp on the practical benefits of a styling treatment.</description>
-<media:thumbnail url="https://imgix.bustle.com/uploads/image/2026/11/17/a97f1139/wselects_diffarvert.jpg?w=1200&amp;fit=max"/>
-</item>
-<item>
-<title>ELLE (US): Safe Word: The Best Jewelry Launches of November 2026</title>
-<link>https://www.elle.com/fashion/jewelry/a74272603/best-jewelry-launches-november-2026/</link>
-<guid isPermaLink="true">https://www.elle.com/fashion/jewelry/a74272603/best-jewelry-launches-november-2026/</guid>
-<pubDate>Fri, 20 Nov 2026 19:43:12 +0000</pubDate>
-<category>Major magazine</category>
-<description></description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/4022a51f-1c72-468c-833e-c1d820d39354.jpg"/>
-</item>
-<item>
-<title>ELLE (US): Inside Citymeals on Wheels’ 39th Annual Power Lunch at The Plaza</title>
-<link>https://www.elle.com/elleextra/events/a74491503/citymeals-on-wheels-power-lunch-2026-plaza-photos/</link>
-<guid isPermaLink="true">https://www.elle.com/elleextra/events/a74491503/citymeals-on-wheels-power-lunch-2026-plaza-photos/</guid>
-<pubDate>Fri, 20 Nov 2026 19:34:57 +0000</pubDate>
-<category>Major magazine</category>
-<description></description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/26783209-c483-47ac-bfa6-c938f6635b7b.jpg"/>
-</item>
-<item>
-<title>W Magazine: Dua Lipa Does Lingerie Dressing in the Middle of Nowhere</title>
-<link>https://www.wmagazine.com/fashion/dua-lipa-lingerie-dressing-forest-ludovic-de-saint-sernin</link>
-<guid isPermaLink="true">https://www.wmagazine.com/fashion/dua-lipa-lingerie-dressing-forest-ludovic-de-saint-sernin</guid>
-<pubDate>Fri, 20 Nov 2026 19:31:51 +0000</pubDate>
-<category>Major magazine</category>
-<description>The superstar seemingly celebrated her &#x27;Grand Theft Auto VI&#x27; song release by forest bathing in her best party garb.</description>
-<media:thumbnail url="https://imgix.bustle.com/uploads/image/2026/11/20/71ae3ddc/snapinstto_912036658_18682746877043196_5496454957055326855_n.jpg?w=1200&amp;fit=max"/>
-</item>
-<item>
-<title>Cosmopolitan: The Best Nordstrom Black Friday Beauty Deals Are Live Now—Here&#x27;s What to Shop</title>
-<link>https://www.cosmopolitan.com/style-beauty/beauty/a74480635/nordstrom-black-friday-beauty-deals/</link>
-<guid isPermaLink="true">https://www.cosmopolitan.com/style-beauty/beauty/a74480635/nordstrom-black-friday-beauty-deals/</guid>
-<pubDate>Fri, 20 Nov 2026 19:29:00 +0000</pubDate>
-<category>Major magazine</category>
-<description>Including steep discounts from Dyson, Medicube, and more.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/67cc19d5-db37-4784-991a-42b6e6f71d3f.png"/>
-</item>
-<item>
-<title>Cosmopolitan: Yes, Katie and Victor Were Flirting on ‘The Traitors: New Blood’—and They Dished All About Their First Date</title>
-<link>https://www.cosmopolitan.com/entertainment/tv/a74492443/katie-victor-traitors-new-blood-date/</link>
-<guid isPermaLink="true">https://www.cosmopolitan.com/entertainment/tv/a74492443/katie-victor-traitors-new-blood-date/</guid>
-<pubDate>Fri, 20 Nov 2026 19:22:18 +0000</pubDate>
-<category>Major magazine</category>
-<description>Nothing says romance like trying not to get murdered on reality TV.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/c93e1e8a-8baf-44c6-88cf-2366313445ce.jpg"/>
-</item>
-<item>
-<title>ELLE (US): Willy Chavarria Is Honored at the 6th Annual We Are All Human Gala</title>
-<link>https://www.elle.com/elleextra/events/a74491885/we-are-all-human-gala-2026-recap/</link>
-<guid isPermaLink="true">https://www.elle.com/elleextra/events/a74491885/we-are-all-human-gala-2026-recap/</guid>
-<pubDate>Fri, 20 Nov 2026 19:15:24 +0000</pubDate>
-<category>Major magazine</category>
-<description>Plus, special recognition for Dolores Huerta and Mark D. Levine and a Cirque du Soleil performance.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/7de1e1d5-4b3b-402a-b944-2a4b30a4dbfc.jpg"/>
-</item>
-<item>
-<title>Teen Vogue: How Kate Spade Plans to Prioritize Mental Health For 250,000 Women and Girls</title>
-<link>https://www.teenvogue.com/story/how-kate-spade-plans-to-prioritize-mental-health-for-250000-women-and-girls-new</link>
-<guid isPermaLink="true">https://www.teenvogue.com/story/how-kate-spade-plans-to-prioritize-mental-health-for-250000-women-and-girls-new</guid>
-<pubDate>Fri, 20 Nov 2026 19:15:22 +0000</pubDate>
-<category>Major magazine</category>
-<description>Taryn Bird, executive director of social impact at Kate Spade, tells us how she got her job and what it means.</description>
-<media:thumbnail url="https://assets.teenvogue.com/photos/6b009c36b8caffc982a97626/master/pass/GettyImages-1168838929.jpg"/>
-</item>
-<item>
-<title>ELLE (US): Azzedine Alaïa Changed Fashion on His Own Terms</title>
-<link>https://www.elle.com/fashion/a74463210/azzedine-alaia-sculpting-fashion-legion-of-honor-exhibition/</link>
-<guid isPermaLink="true">https://www.elle.com/fashion/a74463210/azzedine-alaia-sculpting-fashion-legion-of-honor-exhibition/</guid>
-<pubDate>Fri, 20 Nov 2026 18:56:14 +0000</pubDate>
-<category>Major magazine</category>
-<description>A new exhibition showcases 80 garments from the rule-breaking designer.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/5deca4db-8f40-47fc-8ca8-8b1fe824c511.jpg"/>
-</item>
-<item>
-<title>Vogue Italia: 4 sneakers anni &#x27;90 che tornano nell&#x27;autunno 2026, eternamente cool</title>
-<link>https://www.vogue.it/article/sneakers-anni-90-modelli-tendenza</link>
-<guid isPermaLink="true">https://www.vogue.it/article/sneakers-anni-90-modelli-tendenza</guid>
-<pubDate>Fri, 20 Nov 2026 18:54:48 +0000</pubDate>
-<category>Vogue edition</category>
-<description>Dai modelli minimalisti a quelli chunky, dalle silhouette rétro alle dad shoes, ecco le sneakers anni 90 che oggi incantano la Gen Z</description>
-<media:thumbnail url="https://compass-media.vogue.it/photos/6b005d9ecff109b5b15cbcab/master/pass/tenis-negros.jpg"/>
-</item>
-<item>
-<title>ELLE (US): All the Must-See Spring/Summer 2027 Campaigns So Far</title>
-<link>https://www.elle.com/fashion/a74375398/best-spring-summer-2027-campaigns/</link>
-<guid isPermaLink="true">https://www.elle.com/fashion/a74375398/best-spring-summer-2027-campaigns/</guid>
-<pubDate>Fri, 20 Nov 2026 18:49:48 +0000</pubDate>
-<category>Major magazine</category>
-<description></description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/16a1501f-da7b-44f2-aa0a-c04a0fb76a5b.jpg"/>
-</item>
-<item>
-<title>Cosmopolitan: A ‘Yellowjackets’ Season 4 Schedule to Keep You From Getting Lost in the Wilderness</title>
-<link>https://www.cosmopolitan.com/entertainment/tv/a74491386/yellowjackets-season-4-release-schedule/</link>
-<guid isPermaLink="true">https://www.cosmopolitan.com/entertainment/tv/a74491386/yellowjackets-season-4-release-schedule/</guid>
-<pubDate>Fri, 20 Nov 2026 18:48:58 +0000</pubDate>
-<category>Major magazine</category>
-<description>No return fr this time.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/7e52fcaa-2dc3-42e0-b21a-5d60a2ad22a6.jpg"/>
-</item>
-<item>
-<title>ELLE (US): Cecilie Bahnsen Rethinks the Fleece for Her Second Uniqlo Collaboration</title>
-<link>https://www.elle.com/fashion/shopping/a74490341/cecilie-bahnsen-uniqlo-collection-launch-news-2026/</link>
-<guid isPermaLink="true">https://www.elle.com/fashion/shopping/a74490341/cecilie-bahnsen-uniqlo-collection-launch-news-2026/</guid>
-<pubDate>Fri, 20 Nov 2026 18:45:04 +0000</pubDate>
-<category>Major magazine</category>
-<description>The collection is a Scandi winter balletcore dream.</description>
-<media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/1cef77f6-e64d-4370-8aa2-0c0d761a954a.jpg"/>
 </item>
 </channel>
 </rss>
