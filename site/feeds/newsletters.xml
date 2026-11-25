@@ -4,8 +4,17 @@
 <title>Fashion RSS: Newsletters</title>
 <link>https://For3stpunk.github.io/fashion-rss</link>
 <atom:link href="https://For3stpunk.github.io/fashion-rss/feeds/newsletters.xml" rel="self" type="application/rss+xml"/>
-<description>Newsletters from 155 recent stories across the fashion media directory.</description>
-<lastBuildDate>Wed, 25 Nov 2026 08:33:12 +0000</lastBuildDate>
+<description>Newsletters from 151 recent stories across the fashion media directory.</description>
+<lastBuildDate>Wed, 25 Nov 2026 19:16:42 +0000</lastBuildDate>
+<item>
+<title>Magasin (Laura Reilly): 550: Every item we’ve ever written about that’s now on sale</title>
+<link>https://www.magasin.ltd/p/550-every-item-weve-ever-written</link>
+<guid isPermaLink="true">https://www.magasin.ltd/p/550-every-item-weve-ever-written</guid>
+<pubDate>Wed, 25 Nov 2026 15:08:32 +0000</pubDate>
+<category>Newsletter</category>
+<description>The Black Friday “Spreadsheet” goes public.</description>
+<media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/6096a7e9-1ba9-4787-beb7-ddc1d2efe65c_2439x3219.jpeg"/>
+</item>
 <item>
 <title>Magasin (Laura Reilly): 549: My favorite brands saved their best sales for us</title>
 <link>https://www.magasin.ltd/p/549-my-favorite-brands-saved-their</link>
@@ -1355,51 +1364,6 @@
 <category>Newsletter</category>
 <description>At home in Charleston, plus a night in New York</description>
 <media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/c248a39a-9137-4ef6-ae2e-1bc5e9c3e212_1250x833.png"/>
-</item>
-<item>
-<title>Discoursted (Louis Pisano): Fuck-Ass Hats for Fascism</title>
-<link>https://louispisano.substack.com/p/fuck-ass-hats-for-fascism</link>
-<guid isPermaLink="true">https://louispisano.substack.com/p/fuck-ass-hats-for-fascism</guid>
-<pubDate>Wed, 04 Nov 2026 18:30:59 +0000</pubDate>
-<category>Newsletter</category>
-<description>The weirdest things people wore to the polls</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!Et4Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b8e0d3f-8741-4ef1-9ef1-4897d5cb489d_1086x537.jpeg"/>
-</item>
-<item>
-<title>Unpolished Watches (Tony Traina): Newsflash: You don’t need to spend $100k on an ‘independent’ watch.</title>
-<link>https://www.unpolishedwatches.com/p/newsflash-you-dont-need-to-spend</link>
-<guid isPermaLink="true">https://www.unpolishedwatches.com/p/newsflash-you-dont-need-to-spend</guid>
-<pubDate>Wed, 04 Nov 2026 16:30:28 +0000</pubDate>
-<category>Newsletter</category>
-<description>Nobody can define the word anyway, which is exactly why it costs so much.</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!QWee!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38e9bd98-1b6f-47e6-ac45-fe4b77907f13_2048x2048.jpeg"/>
-</item>
-<item>
-<title>Girls of a Certain Age (Kim France): Cold-weather items I’d buy in a second</title>
-<link>https://kimfrance.substack.com/p/cold-weather-items-id-buy-in-a-second</link>
-<guid isPermaLink="true">https://kimfrance.substack.com/p/cold-weather-items-id-buy-in-a-second</guid>
-<pubDate>Wed, 04 Nov 2026 15:33:46 +0000</pubDate>
-<category>Newsletter</category>
-<description>If I needed them here</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!-1kU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84ce3003-1ad2-43be-a40b-42d65fb4ff14_1068x1340.png"/>
-</item>
-<item>
-<title>Earl Earl (Laurel Pantin): The Things I’m Actually Spending My Money On</title>
-<link>https://laurelpantin.substack.com/p/the-things-im-actually-spending-my</link>
-<guid isPermaLink="true">https://laurelpantin.substack.com/p/the-things-im-actually-spending-my</guid>
-<pubDate>Wed, 04 Nov 2026 14:02:17 +0000</pubDate>
-<category>Newsletter</category>
-<description>A little bit about how I find inspiration and then how I turn that into a shopping list and outfits.</description>
-<media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/a69cf785-8e3e-4c1d-9bfc-732073f67caa_1144x596.png"/>
-</item>
-<item>
-<title>The French Woman (Garance Doré): 16 Totally Random Things I Love</title>
-<link>https://garancedore.substack.com/p/16-totally-random-things-i-love</link>
-<guid isPermaLink="true">https://garancedore.substack.com/p/16-totally-random-things-i-love</guid>
-<pubDate>Wed, 04 Nov 2026 11:33:35 +0000</pubDate>
-<category>Newsletter</category>
-<description>With absolutely no ado, here are fifteen things I’ve seen, loved, owned, or dreamt of.</description>
-<media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/e77d136e-1ab3-4342-b0e4-41ccc3a86882_1400x1000.png"/>
 </item>
 </channel>
 </rss>
