@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:35:21+00:00",
+ "updated": "2026-11-26T16:54:27+00:00",
  "feeds": {
   "Vogue": {
    "url": "https://www.vogue.com/feed/rss",
@@ -94,7 +94,7 @@
   "Highsnobiety": {
    "url": "https://www.highsnobiety.com/feeds/rss",
    "status": "ok",
-   "stories": 17
+   "stories": 13
   },
   "Editorialist": {
    "url": "https://editorialist.com/feed/",
@@ -1053,8 +1053,8 @@
   },
   "Sandra Semburg": {
    "url": "https://www.sandrasemburg.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Fashion Vernissage": {
    "url": "https://fashionvernissage.com/feed/",
@@ -1548,8 +1548,8 @@
   },
   "Tokyo Fashion": {
    "url": "https://tokyofashion.com/feed/",
-   "status": "TimeoutError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "TheIndustry.fashion": {
    "url": "https://www.theindustry.fashion/feed/",
@@ -1558,8 +1558,8 @@
   },
   "Drapers": {
    "url": "https://www.drapersonline.com/feed",
-   "status": "HTTPError 403",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Fibre2Fashion": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU6fF5ds7_V3pluh5sZvA",
@@ -2143,8 +2143,8 @@
   },
   "Glamourina": {
    "url": "https://glamourina.net/en/c/fashion-blog-2/feed/",
-   "status": "not a feed",
-   "stories": 0
+   "status": "ok",
+   "stories": 5
   },
   "Good Maker Tales": {
    "url": "https://goodmakertales.com/feed/",
@@ -2258,8 +2258,8 @@
   },
   "Aishwarya Iyengar": {
    "url": "https://aishwaryaiyengar.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Bowties and Bones": {
    "url": "https://bowtiesandbones.com/feed/",
@@ -2488,8 +2488,8 @@
   },
   "Lovely In LA": {
    "url": "https://lovelyinla.com/feed/",
-   "status": "not a feed",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Style Plus Curves": {
    "url": "https://stylepluscurves.com/feed/",
@@ -2619,7 +2619,7 @@
   "Mirror – Style": {
    "url": "https://www.mirror.co.uk/3am/style/?service=rss",
    "status": "ok",
-   "stories": 9
+   "stories": 10
   },
   "Does My Bum Look 40 In This?": {
    "url": "http://doesmybumlook40.blogspot.com/feeds/posts/default?alt=rss",
@@ -2693,8 +2693,8 @@
   },
   "Retail Gazette – Fashion": {
    "url": "https://www.retailgazette.co.uk/blog/category/all/fashion/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 403",
+   "stories": 0
   },
   "RetailDetail – Fashion": {
    "url": "https://www.retaildetail.eu/category/fashion/feed/",
@@ -3273,8 +3273,8 @@
   },
   "Chloé Fashion & Lifestyle": {
    "url": "https://chloefashionlifestyle.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Punky B": {
    "url": "https://www.punky-b.com/feed/",
@@ -3418,8 +3418,8 @@
   },
   "Style Shouts": {
    "url": "http://www.styleshouts.com/feed",
-   "status": "ok",
-   "stories": 10
+   "status": "URLError",
+   "stories": 0
   },
   "MODAfashion": {
    "url": "https://elisabettabertolini.com/feed",
