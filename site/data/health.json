@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:54:27+00:00",
+ "updated": "2026-11-27T01:45:36+00:00",
  "feeds": {
   "Vogue": {
    "url": "https://www.vogue.com/feed/rss",
@@ -94,7 +94,7 @@
   "Highsnobiety": {
    "url": "https://www.highsnobiety.com/feeds/rss",
    "status": "ok",
-   "stories": 13
+   "stories": 9
   },
   "Editorialist": {
    "url": "https://editorialist.com/feed/",
@@ -653,8 +653,8 @@
   },
   "Coco Bassey": {
    "url": "https://cocobassey.com/category/fashion/feed/",
-   "status": "TimeoutError",
-   "stories": 0
+   "status": "ok",
+   "stories": 25
   },
   "Style Pantry": {
    "url": "https://stylepantry.com/feed/",
@@ -988,8 +988,8 @@
   },
   "Whaelse": {
    "url": "https://www.whaelse.com/en/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "TimeoutError",
+   "stories": 0
   },
   "Fashion and Cookies": {
    "url": "http://www.fashionandcookies.com/feeds/posts/default?alt=rss",
@@ -1548,8 +1548,8 @@
   },
   "Tokyo Fashion": {
    "url": "https://tokyofashion.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "TimeoutError",
+   "stories": 0
   },
   "TheIndustry.fashion": {
    "url": "https://www.theindustry.fashion/feed/",
@@ -1748,8 +1748,8 @@
   },
   "To Be Bright": {
    "url": "https://tobebright.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 503",
+   "stories": 0
   },
   "T-Curate": {
    "url": "https://tcurate.com/blog?format=rss",
@@ -2619,7 +2619,7 @@
   "Mirror – Style": {
    "url": "https://www.mirror.co.uk/3am/style/?service=rss",
    "status": "ok",
-   "stories": 10
+   "stories": 8
   },
   "Does My Bum Look 40 In This?": {
    "url": "http://doesmybumlook40.blogspot.com/feeds/posts/default?alt=rss",
@@ -2693,8 +2693,8 @@
   },
   "Retail Gazette – Fashion": {
    "url": "https://www.retailgazette.co.uk/blog/category/all/fashion/feed/",
-   "status": "HTTPError 403",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "RetailDetail – Fashion": {
    "url": "https://www.retaildetail.eu/category/fashion/feed/",
@@ -3418,8 +3418,8 @@
   },
   "Style Shouts": {
    "url": "http://www.styleshouts.com/feed",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "MODAfashion": {
    "url": "https://elisabettabertolini.com/feed",
