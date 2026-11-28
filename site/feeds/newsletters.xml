@@ -4,8 +4,17 @@
 <title>Fashion RSS: Newsletters</title>
 <link>https://For3stpunk.github.io/fashion-rss</link>
 <atom:link href="https://For3stpunk.github.io/fashion-rss/feeds/newsletters.xml" rel="self" type="application/rss+xml"/>
-<description>Newsletters from 178 recent stories across the fashion media directory.</description>
-<lastBuildDate>Fri, 27 Nov 2026 21:27:13 +0000</lastBuildDate>
+<description>Newsletters from 176 recent stories across the fashion media directory.</description>
+<lastBuildDate>Sat, 28 Nov 2026 07:48:39 +0000</lastBuildDate>
+<item>
+<title>The Molehill (Viv Chen): what san franciscans wore to the opening night of the alaïa exhibit</title>
+<link>https://www.themolehill.net/p/what-san-franciscans-wore-to-the</link>
+<guid isPermaLink="true">https://www.themolehill.net/p/what-san-franciscans-wore-to-the</guid>
+<pubDate>Fri, 27 Nov 2026 23:04:07 +0000</pubDate>
+<category>Newsletter</category>
+<description>i needed to know about zac posen’s cozy plaid poncho...</description>
+<media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/1b527d10-1fe3-48a1-856d-781658b33642_1618x1080.png"/>
+</item>
 <item>
 <title>Magasin (Laura Reilly): 552: BLACK FRIDAY IS ACTUALLY GOOD THIS YEAR</title>
 <link>https://www.magasin.ltd/p/552-black-friday-is-actually-good</link>
@@ -1579,33 +1588,6 @@
 <category>Newsletter</category>
 <description>An exceptionally good hand cream, Sephora Sale best-sellers, a gorgeous jewelry collab, the TV show taking me by surprise . . . the Cyber sales are starting early!</description>
 <media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/0cd864e4-3356-476e-840e-1c314d948028_1250x833.png"/>
-</item>
-<item>
-<title>Trade Offs (Julia &amp; Thomas Berolzheimer): 12 hours in NYC, my holiday dress wish list &amp; a really, really good gold jacket</title>
-<link>https://makingtradeoffs.substack.com/p/12-hours-in-nyc-my-holiday-dress</link>
-<guid isPermaLink="true">https://makingtradeoffs.substack.com/p/12-hours-in-nyc-my-holiday-dress</guid>
-<pubDate>Fri, 06 Nov 2026 22:31:16 +0000</pubDate>
-<category>Newsletter</category>
-<description>Weekly Whims, Vol. 85</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!9yju!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff54007dc-85a9-4e94-a8d3-a9cd1b269e02_1350x1688.png"/>
-</item>
-<item>
-<title>So Many Thoughts (Elizabeth Holmes): Meghan’s Estranged Father Arrested in Florida</title>
-<link>https://somanythoughts.substack.com/p/meghans-father-thomas-markle-arrested-in-florida</link>
-<guid isPermaLink="true">https://somanythoughts.substack.com/p/meghans-father-thomas-markle-arrested-in-florida</guid>
-<pubDate>Fri, 06 Nov 2026 21:53:39 +0000</pubDate>
-<category>Newsletter</category>
-<description>US authorities charged Thomas Markle Sr. with possession of child sexual abuse images.</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!Bo6l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c97e65b-5da3-4e87-983b-0fc84e8a9fc6_5184x3456.jpeg"/>
-</item>
-<item>
-<title>Brain Matter (Gabriella Karefa-Johnson): Delusion Is the Only Way to Build</title>
-<link>https://brainmatterbygkj.substack.com/p/youtube-show-fashion-week-front-row-back-table</link>
-<guid isPermaLink="true">https://brainmatterbygkj.substack.com/p/youtube-show-fashion-week-front-row-back-table</guid>
-<pubDate>Fri, 06 Nov 2026 21:30:43 +0000</pubDate>
-<category>Newsletter</category>
-<description>A month of “Front Row, Back Table,” kilos of caviar, and a few thoughts on what it takes to make something worthwhile</description>
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!oJFj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda1e6859-9222-49c4-8c71-7edcbe9d1145_1868x1052.png"/>
 </item>
 </channel>
 </rss>

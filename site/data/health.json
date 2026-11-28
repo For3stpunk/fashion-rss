@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:27:12+00:00",
+ "updated": "2026-11-28T07:48:39+00:00",
  "feeds": {
   "Vogue": {
    "url": "https://www.vogue.com/feed/rss",
@@ -94,7 +94,7 @@
   "Highsnobiety": {
    "url": "https://www.highsnobiety.com/feeds/rss",
    "status": "ok",
-   "stories": 10
+   "stories": 11
   },
   "Editorialist": {
    "url": "https://editorialist.com/feed/",
@@ -123,13 +123,13 @@
   },
   "Permanent Style": {
    "url": "https://www.permanentstyle.com/feed",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Ape To Gentleman": {
    "url": "https://www.apetogentleman.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Effortless Gent": {
    "url": "https://effortlessgent.com/feed/",
@@ -158,8 +158,8 @@
   },
   "Not Dressed As Lamb": {
    "url": "https://www.notdressedaslamb.com/feed",
-   "status": "ok",
-   "stories": 2
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Style at a Certain Age": {
    "url": "https://www.styleatacertainage.com/feed/",
@@ -328,12 +328,12 @@
   },
   "J'adore Fashion": {
    "url": "https://www.jadore-fashion.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 502",
+   "stories": 0
   },
   "With Love From Kat": {
    "url": "http://withlovefromkat.com/feed/",
-   "status": "HTTPError 500",
+   "status": "HTTPError 415",
    "stories": 0
   },
   "Margo & Me": {
@@ -348,13 +348,13 @@
   },
   "Style Rave": {
    "url": "https://www.stylerave.com/feed/",
-   "status": "ok",
-   "stories": 25
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Styling You": {
    "url": "https://www.stylingyou.com.au/feed/",
-   "status": "HTTPError 520",
-   "stories": 0
+   "status": "ok",
+   "stories": 8
   },
   "Styled Snapshots": {
    "url": "https://styledsnapshots.com/feed",
@@ -363,7 +363,7 @@
   },
   "Retro Flame": {
    "url": "http://retro-flame.com/feed/",
-   "status": "HTTPError 404",
+   "status": "HTTPError 415",
    "stories": 0
   },
   "Lily Melrose": {
@@ -593,8 +593,8 @@
   },
   "Tuolomee": {
    "url": "http://www.tuolomee.com/feed/",
-   "status": "ok",
-   "stories": 6
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Alyson Haley": {
    "url": "https://alysonhaley.com/category/style/feed",
@@ -653,8 +653,8 @@
   },
   "Coco Bassey": {
    "url": "https://cocobassey.com/category/fashion/feed/",
-   "status": "TimeoutError",
-   "stories": 0
+   "status": "ok",
+   "stories": 25
   },
   "Style Pantry": {
    "url": "https://stylepantry.com/feed/",
@@ -763,8 +763,8 @@
   },
   "The Everyday Man": {
    "url": "https://theeverydayman.co.uk/category/fashion/feed/",
-   "status": "ok",
-   "stories": 12
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Natasha Kundi": {
    "url": "https://www.natashakundi.com/category/fashion/feed/",
@@ -798,8 +798,8 @@
   },
   "Disneyrollergirl": {
    "url": "https://www.disneyrollergirl.net/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Grey Fox": {
    "url": "https://www.greyfoxblog.com/feeds/posts/default?alt=rss",
@@ -808,8 +808,8 @@
   },
   "The LDN Diaries": {
    "url": "https://theldndiaries.com/fashion/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Love.Style.Mindfulness": {
    "url": "https://www.lovestylemindfulness.co.uk/feed/",
@@ -858,13 +858,13 @@
   },
   "Coco Mama Style": {
    "url": "https://cocomamastyle.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Georgia Hathaway": {
    "url": "http://www.georgiahathaway.co.uk/category/fashionstyle/feed/",
-   "status": "ok",
-   "stories": 8
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Loukiya": {
    "url": "https://www.loukiya.com/blog?format=rss",
@@ -888,8 +888,8 @@
   },
   "The Gentleman Blogger": {
    "url": "http://www.thegentlemanblogger.com/feed",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Lipstick, Lettuce & Lycra": {
    "url": "https://feeds.feedburner.com/LipstickLettuceLycra",
@@ -978,8 +978,8 @@
   },
   "Masha Sedgwick": {
    "url": "https://www.masha-sedgwick.com/feed/",
-   "status": "ok",
-   "stories": 9
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Angelica Blick": {
    "url": "https://angelicablick.se/feed/",
@@ -1003,8 +1003,8 @@
   },
   "What Olivia Did": {
    "url": "https://whatoliviadid.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Hello It's Valentine": {
    "url": "http://www.helloitsvalentine.fr/feed/",
@@ -1053,8 +1053,8 @@
   },
   "Sandra Semburg": {
    "url": "https://www.sandrasemburg.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Fashion Vernissage": {
    "url": "https://fashionvernissage.com/feed/",
@@ -1078,8 +1078,8 @@
   },
   "Your Average Guy": {
    "url": "https://youraverageguystyle.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Miss Classy": {
    "url": "https://www.miss-classy.com/fashion-blog/feed/",
@@ -1168,7 +1168,7 @@
   },
   "Infur Magazine": {
    "url": "https://www.infurmag.com/feed/",
-   "status": "no stories",
+   "status": "HTTPError 415",
    "stories": 0
   },
   "Pursuitist": {
@@ -1218,8 +1218,8 @@
   },
   "Junior Style": {
    "url": "https://juniorstyle.net/feed/",
-   "status": "ok",
-   "stories": 12
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Bisous Natasha": {
    "url": "https://feeds.feedburner.com/BisousNatasha",
@@ -1263,13 +1263,13 @@
   },
   "Affinity Magazine": {
    "url": "https://affinitymag.co.uk/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "LXRY Magazine": {
    "url": "https://lxry.ca/category/fashion/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "The Luxury Chronicle": {
    "url": "https://www.theluxurychronicle.com/category/fashion/feed/",
@@ -1488,8 +1488,8 @@
   },
   "Gary Pepper Girl": {
    "url": "http://garypeppergirl.com/feed",
-   "status": "ok",
-   "stories": 5
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Senior Style Bible": {
    "url": "https://seniorstylebible.com/feed/",
@@ -1533,8 +1533,8 @@
   },
   "Kate Waterhouse": {
    "url": "https://katewaterhouse.com/category/fashion-beauty/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Fashionista": {
    "url": "https://fashionista.com/.rss/excerpt/",
@@ -1553,8 +1553,8 @@
   },
   "TheIndustry.fashion": {
    "url": "https://www.theindustry.fashion/feed/",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Drapers": {
    "url": "https://www.drapersonline.com/feed",
@@ -1683,8 +1683,8 @@
   },
   "Scout The City": {
    "url": "https://scoutthecity.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "not a feed",
+   "stories": 0
   },
   "Kelly in the City": {
    "url": "https://kellyinthecity.com/feed/",
@@ -1708,8 +1708,8 @@
   },
   "Fashion Steele NYC": {
    "url": "http://fashionsteelenyc.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Levitate Style": {
    "url": "http://www.levitatestyle.com/feeds/posts/default",
@@ -1728,8 +1728,8 @@
   },
   "New York Fashion Hunter": {
    "url": "https://www.newyorkfashionhunter.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Simply Audree Kate": {
    "url": "https://www.simplyaudreekate.com/feed/",
@@ -1808,7 +1808,7 @@
   },
   "And I Get Dressed": {
    "url": "https://andigetdressed.com/feed/",
-   "status": "no stories",
+   "status": "HTTPError 415",
    "stories": 0
   },
   "Cosmopolitan": {
@@ -1888,8 +1888,8 @@
   },
   "10 Magazine": {
    "url": "https://10magazine.com/feed/",
-   "status": "ok",
-   "stories": 25
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Hunger Magazine": {
    "url": "https://hungermag.com/feed/",
@@ -1948,8 +1948,8 @@
   },
   "Men's Style Pro": {
    "url": "https://mensstylepro.com/feed/",
-   "status": "ok",
-   "stories": 25
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "A Continuous Lean": {
    "url": "https://feeds.feedburner.com/acontinuouslean/",
@@ -2053,8 +2053,8 @@
   },
   "Heddels": {
    "url": "https://www.heddels.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "The London Man": {
    "url": "https://www.thelondonmanblog.com/blog-feed.xml",
@@ -2128,23 +2128,23 @@
   },
   "Curiously Conscious": {
    "url": "https://www.curiouslyconscious.com/category/fashion/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "My Green Closet": {
    "url": "https://mygreencloset.com/feed/",
-   "status": "ok",
-   "stories": 7
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Econosa": {
    "url": "https://econosa.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Glamourina": {
    "url": "https://glamourina.net/en/c/fashion-blog-2/feed/",
-   "status": "ok",
-   "stories": 5
+   "status": "not a feed",
+   "stories": 0
   },
   "Good Maker Tales": {
    "url": "https://goodmakertales.com/feed/",
@@ -2258,8 +2258,8 @@
   },
   "Aishwarya Iyengar": {
    "url": "https://aishwaryaiyengar.com/feed/",
-   "status": "URLError",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Bowties and Bones": {
    "url": "https://bowtiesandbones.com/feed/",
@@ -2353,8 +2353,8 @@
   },
   "Jen Pistor": {
    "url": "https://jenpistor.com/feed/",
-   "status": "ok",
-   "stories": 5
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Cara Jourdan": {
    "url": "https://carajourdan.com/posts?format=RSS",
@@ -2373,13 +2373,13 @@
   },
   "Stripes and Vibes": {
    "url": "https://stripesnvibes.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "The Pink Millennial": {
    "url": "https://thepinkmillennial.ca/feed/",
-   "status": "ok",
-   "stories": 6
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Krystin Tysire": {
    "url": "https://krystintysire.com/feed",
@@ -2393,13 +2393,13 @@
   },
   "Playing With Apparel": {
    "url": "https://www.playingwithapparel.com/feed/",
-   "status": "ok",
-   "stories": 8
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "La Petite Poire": {
    "url": "https://www.petitepoire.ca/feed",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Stylish Curves": {
    "url": "https://stylishcurves.com/feed/",
@@ -2408,8 +2408,8 @@
   },
   "Chubstr": {
    "url": "https://chubstr.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "She Might Be Loved": {
    "url": "https://feeds.feedburner.com/shemightbeloved",
@@ -2458,8 +2458,8 @@
   },
   "Authentically Emmie": {
    "url": "https://authenticallyemmie.com/feed/",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "The B Word": {
    "url": "https://thebwordblog.com/blog/feed/",
@@ -2488,8 +2488,8 @@
   },
   "Lovely In LA": {
    "url": "https://lovelyinla.com/feed/",
-   "status": "not a feed",
-   "stories": 0
+   "status": "ok",
+   "stories": 10
   },
   "Style Plus Curves": {
    "url": "https://stylepluscurves.com/feed/",
@@ -2523,8 +2523,8 @@
   },
   "Chief of Style": {
    "url": "https://chiefofstyle.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Trendy Curves by Bella Styles": {
    "url": "https://bellastyles.com/feed/?x=1",
@@ -2538,8 +2538,8 @@
   },
   "Guy Overboard": {
    "url": "https://feeds.feedburner.com/guyoverboard",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Curvily": {
    "url": "https://curvilyfashion.com/feed/",
@@ -2619,7 +2619,7 @@
   "Mirror – Style": {
    "url": "https://www.mirror.co.uk/3am/style/?service=rss",
    "status": "ok",
-   "stories": 11
+   "stories": 9
   },
   "Does My Bum Look 40 In This?": {
    "url": "http://doesmybumlook40.blogspot.com/feeds/posts/default?alt=rss",
@@ -2633,13 +2633,13 @@
   },
   "The Frugality": {
    "url": "https://the-frugality.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Notes From A Stylist": {
    "url": "https://www.notesfromastylist.com/category/fashion-2/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Go Fug Yourself": {
    "url": "https://www.gofugyourself.com/feed",
@@ -2723,7 +2723,7 @@
   },
   "Lauren Messiah": {
    "url": "https://laurenmessiah.com/feed/",
-   "status": "no stories",
+   "status": "HTTPError 415",
    "stories": 0
   },
   "Le Fashion": {
@@ -2863,13 +2863,13 @@
   },
   "Luso Life – Style": {
    "url": "https://lusolife.ca/category/style/feed/",
-   "status": "no stories",
+   "status": "HTTPError 415",
    "stories": 0
   },
   "Fashionnights": {
    "url": "https://fashionights.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "FORWARD Fashion Toronto": {
    "url": "https://forwardfashiontoronto.com/feed",
@@ -2888,8 +2888,8 @@
   },
   "FAJO Magazine": {
    "url": "https://www.fajomagazine.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Fashion Takes Action": {
    "url": "https://www.fashiontakesaction.com/feed/",
@@ -3003,8 +3003,8 @@
   },
   "My Vintage Love": {
    "url": "http://myvintagelove.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Something Definitely Happened": {
    "url": "https://somethingdefinitelyhappened.com/feed/",
@@ -3358,12 +3358,12 @@
   },
   "Tr3nDyGiRL": {
    "url": "http://tr3ndygirl.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "The Fashion Coffee": {
    "url": "https://www.thefashioncoffee.com/feed/",
-   "status": "URLError",
+   "status": "HTTPError 415",
    "stories": 0
   },
   "Trend & The City": {
@@ -3373,8 +3373,8 @@
   },
   "Mrs. Noone": {
    "url": "https://www.mrsnoone.it/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Coco et La Vie en Rose": {
    "url": "https://cocoetlavieenrose.com/feed/",
@@ -3423,13 +3423,13 @@
   },
   "MODAfashion": {
    "url": "https://elisabettabertolini.com/feed",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Angelichic": {
    "url": "https://www.angelichic.com/feed/",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "The Fashionamy": {
    "url": "http://www.thefashionamy.com/feeds/posts/default?alt=rss",
@@ -3448,8 +3448,8 @@
   },
   "Petar Milano": {
    "url": "http://petarmilano.com/feed/",
-   "status": "ok",
-   "stories": 10
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "The World C": {
    "url": "https://www.theworldc.com/feed",
@@ -3503,7 +3503,7 @@
   },
   "Alice Cerea": {
    "url": "https://www.alicecerea.com/category/trends-2/feed/",
-   "status": "HTTPError 404",
+   "status": "HTTPError 403",
    "stories": 0
   },
   "The Cihc": {
@@ -3573,8 +3573,8 @@
   },
   "The BK Mag": {
    "url": "https://thebkmag.com/tag/photography/feed/",
-   "status": "ok",
-   "stories": 20
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Lens Magazine": {
    "url": "https://lensmagazine.net/category/photography-genres/fashion-photography/feed/",
@@ -3853,8 +3853,8 @@
   },
   "Kaltblut": {
    "url": "https://www.kaltblut-magazine.com/feed/",
-   "status": "ok",
-   "stories": 11
+   "status": "HTTPError 415",
+   "stories": 0
   },
   "Sourcing Journal": {
    "url": "https://sourcingjournal.com/feed/",
@@ -3953,8 +3953,8 @@
   },
   "Victoria": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyxZB7SqkRFqij18X1rDYHQ",
-   "status": "HTTPError 503",
-   "stories": 0
+   "status": "ok",
+   "stories": 15
   },
   "Freddy My Love": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFKHiDLbWZQYh9mHJKh55ig",
@@ -4023,8 +4023,8 @@
   },
   "madebyaya": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC41_vOP5eondo4tzP_Bmi2Q",
-   "status": "ok",
-   "stories": 15
+   "status": "HTTPError 503",
+   "stories": 0
   },
   "Alex Centomo": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoNwgTHht-RyF85EL_VFtjQ",
@@ -4093,8 +4093,8 @@
   },
   "Jenny Bourn": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC56Olvxf2FznHWOHIcfxq_g",
-   "status": "HTTPError 503",
-   "stories": 0
+   "status": "ok",
+   "stories": 15
   },
   "KristynAlexis": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxV7g86R_SHYr7WLC2I3YCw",
@@ -4163,8 +4163,8 @@
   },
   "Drew Scott": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPJsiGiTpWwNTaXN4cD7n_A",
-   "status": "HTTPError 503",
-   "stories": 0
+   "status": "ok",
+   "stories": 15
   },
   "Bluntly Sassy": {
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCecEZfhZ4G3r41mXSYMRl4A",
